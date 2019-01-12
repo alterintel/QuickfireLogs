@@ -1,75 +1,11 @@
-[2019-01-12 09:56:09] STARMADE SERVER VERSION: 0.201.345; Build(20190109_151804)
-[2019-01-12 09:56:09] STARMADE SERVER STARTED: Sat Jan 12 09:56:09 EST 2019
-[2019-01-12 09:57:02] [SERVERSOCKET] Incoming connection: 40170, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 09:57:02] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40170) used: 'STATUS' with args []
-[2019-01-12 09:57:02] [DISCONNECT] Client 'null' IP(/127.0.0.1:40170) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 0
-[2019-01-12 09:57:02] [SERVERSOCKET] Incoming connection: 40172, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 09:57:02] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40172) used: 'STATUS' with args []
-[2019-01-12 09:57:02] [DISCONNECT] Client 'null' IP(/127.0.0.1:40172) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 1
-[2019-01-12 09:57:02] [SERVERSOCKET] Incoming connection: 40174, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 09:57:02] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40174) used: 'PLAYER_LIST' with args []
-[2019-01-12 09:57:02] [DISCONNECT] Client 'null' IP(/127.0.0.1:40174) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 2
-[2019-01-12 10:03:48] [SERVERSOCKET] Incoming connection: 54299, /77.232.147.217 -> 4242, /158.69.122.144
-[2019-01-12 10:03:49] [AUTH] authenticating Zoolimar; useAuth: true; requireAuth: true
-[2019-01-12 10:03:50] [AUTH] Protection status of Zoolimar is ProtectedUplinkName [username=Zoolimar, timeProtected=1542554914191] -> protected = true
-[2019-01-12 10:03:50] [AUTH] PROTECTING USER zoolimar under uplink id Zoolimar
-[2019-01-12 10:03:50] [LOGIN] logged in RegisteredClient: Zoolimar (1) [Zoolimar]connected: true (/77.232.147.217:54299)
-[2019-01-12 10:04:53] [FACTION] Relationship Offer accepted: 21474832185032705 between Rel[a=-9999999, b=-9999998, rel=NEUTRAL]; Outcasts AND Scavengers; CODEA: 21474832185032705; CODEB: 21474834332516351
-[2019-01-12 10:04:53] [FACTION] Relationship Offer accepted: 21474836479999998 between Rel[a=-10000000, b=-9999998, rel=NEUTRAL]; Traders AND Scavengers; CODEA: 21474836479999998; CODEB: 21474832185032706
-[2019-01-12 10:04:53] [FACTION] Relationship Offer accepted: 21474834332516353 between Rel[a=-10000000, b=-9999999, rel=NEUTRAL]; Traders AND Outcasts; CODEA: 21474834332516353; CODEB: 21474836479999999
-[2019-01-12 10:07:46] [SPAWN] Zoolimar spawned new ship: "Zoolimar_1547305660810"
-[2019-01-12 10:09:31] [SPAWN] Zoolimar spawned new station: "Test Target Station"
-[2019-01-12 10:22:49] [SPAWN] Zoolimar spawned new ship: "Zoolimar_1547306564517"
-[2019-01-12 10:24:29] [SERVERSOCKET] Incoming connection: 40182, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 10:24:29] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40182) used: 'STATUS' with args []
-[2019-01-12 10:24:29] [DISCONNECT] Client 'null' IP(/127.0.0.1:40182) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 4
-[2019-01-12 10:24:29] [SERVERSOCKET] Incoming connection: 40184, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 10:24:29] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40184) used: 'STATUS' with args []
-[2019-01-12 10:24:29] [DISCONNECT] Client 'null' IP(/127.0.0.1:40184) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 5
-[2019-01-12 10:24:30] [SERVERSOCKET] Incoming connection: 40186, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 10:24:30] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40186) used: 'PLAYER_LIST' with args []
-[2019-01-12 10:24:30] [DISCONNECT] Client 'null' IP(/127.0.0.1:40186) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 6
-[2019-01-12 10:30:10] [SPAWN] Zoolimar spawned new ship: "Zoolimar_1547307004693"
-[2019-01-12 10:41:32] [DISCONNECT] Client 'RegisteredClient: Zoolimar (1) [Zoolimar]connected: true' IP(/77.232.147.217:54299) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 3
-[2019-01-12 10:41:32] [LOGOUT] logging out client ID RegisteredClient: Zoolimar (1) [Zoolimar]connected: true
-[2019-01-12 11:04:17] [SERVERSOCKET] Incoming connection: 40190, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 11:04:17] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40190) used: 'STATUS' with args []
-[2019-01-12 11:04:17] [DISCONNECT] Client 'null' IP(/127.0.0.1:40190) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 7
-[2019-01-12 11:04:17] [SERVERSOCKET] Incoming connection: 40192, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 11:04:17] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40192) used: 'STATUS' with args []
-[2019-01-12 11:04:17] [DISCONNECT] Client 'null' IP(/127.0.0.1:40192) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 8
-[2019-01-12 11:04:17] [SERVERSOCKET] Incoming connection: 40194, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 11:04:17] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40194) used: 'PLAYER_LIST' with args []
-[2019-01-12 11:04:17] [DISCONNECT] Client 'null' IP(/127.0.0.1:40194) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 9
-[2019-01-12 11:04:34] [SERVERSOCKET] Incoming connection: 40198, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 11:04:34] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40198) used: 'STATUS' with args []
-[2019-01-12 11:04:34] [DISCONNECT] Client 'null' IP(/127.0.0.1:40198) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 10
-[2019-01-12 11:04:34] [SERVERSOCKET] Incoming connection: 40200, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 11:04:34] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40200) used: 'STATUS' with args []
-[2019-01-12 11:04:34] [DISCONNECT] Client 'null' IP(/127.0.0.1:40200) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 11
-[2019-01-12 11:04:34] [SERVERSOCKET] Incoming connection: 40202, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 11:04:34] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40202) used: 'PLAYER_LIST' with args []
-[2019-01-12 11:04:34] [DISCONNECT] Client 'null' IP(/127.0.0.1:40202) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 12
-[2019-01-12 11:05:56] [SERVERSOCKET] Incoming connection: 40208, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 11:05:56] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40208) used: 'STATUS' with args []
-[2019-01-12 11:05:56] [DISCONNECT] Client 'null' IP(/127.0.0.1:40208) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 13
-[2019-01-12 11:05:56] [SERVERSOCKET] Incoming connection: 40210, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 11:05:56] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40210) used: 'STATUS' with args []
-[2019-01-12 11:05:56] [DISCONNECT] Client 'null' IP(/127.0.0.1:40210) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 14
-[2019-01-12 11:05:56] [SERVERSOCKET] Incoming connection: 40212, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 11:05:56] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40212) used: 'PLAYER_LIST' with args []
-[2019-01-12 11:05:56] [DISCONNECT] Client 'null' IP(/127.0.0.1:40212) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 15
-[2019-01-12 11:15:20] [SERVERSOCKET] Incoming connection: 40218, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 11:15:20] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40218) used: 'STATUS' with args []
-[2019-01-12 11:15:20] [DISCONNECT] Client 'null' IP(/127.0.0.1:40218) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 16
-[2019-01-12 11:15:20] [SERVERSOCKET] Incoming connection: 40220, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 11:15:20] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40220) used: 'STATUS' with args []
-[2019-01-12 11:15:20] [DISCONNECT] Client 'null' IP(/127.0.0.1:40220) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 17
-[2019-01-12 11:15:20] [SERVERSOCKET] Incoming connection: 40222, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-01-12 11:15:20] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40222) used: 'PLAYER_LIST' with args []
-[2019-01-12 11:15:20] [DISCONNECT] Client 'null' IP(/127.0.0.1:40222) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 18
-[2019-01-12 11:16:31] [SERVERSOCKET] Incoming connection: 61301, /77.232.147.217 -> 4242, /158.69.122.144
-[2019-01-12 11:16:31] [AUTH] authenticating Zoolimar; useAuth: true; requireAuth: true
-[2019-01-12 11:16:33] [AUTH] Protection status of Zoolimar is ProtectedUplinkName [username=Zoolimar, timeProtected=1547305430088] -> protected = true
-[2019-01-12 11:16:33] [AUTH] PROTECTING USER zoolimar under uplink id Zoolimar
-[2019-01-12 11:16:33] [LOGIN] logged in RegisteredClient: Zoolimar (2) [Zoolimar]connected: true (/77.232.147.217:61301)
+[2019-01-12 17:49:41] STARMADE SERVER VERSION: 0.201.346; Build(20190112_202924)
+[2019-01-12 17:49:41] STARMADE SERVER STARTED: Sat Jan 12 17:49:41 EST 2019
+[2019-01-12 18:07:46] [SERVERSOCKET] Incoming connection: 40372, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-01-12 18:07:46] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40372) used: 'STATUS' with args []
+[2019-01-12 18:07:46] [DISCONNECT] Client 'null' IP(/127.0.0.1:40372) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 0
+[2019-01-12 18:07:46] [SERVERSOCKET] Incoming connection: 40374, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-01-12 18:07:46] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40374) used: 'STATUS' with args []
+[2019-01-12 18:07:46] [DISCONNECT] Client 'null' IP(/127.0.0.1:40374) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 1
+[2019-01-12 18:07:46] [SERVERSOCKET] Incoming connection: 40376, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-01-12 18:07:46] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:40376) used: 'PLAYER_LIST' with args []
+[2019-01-12 18:07:46] [DISCONNECT] Client 'null' IP(/127.0.0.1:40376) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 2
