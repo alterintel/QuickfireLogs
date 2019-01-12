@@ -9665,3 +9665,56 @@
 [2019-01-12 05:11:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim
 [2019-01-12 05:11:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/SIMULATION_STATE.sim.tmp to /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim
 [2019-01-12 05:11:59] [SERVER] SERVER AUTOSAVE END. ServerState saved!
+[2019-01-12 05:16:59] [SERVER] SERVER AUTOSAVE START. Dumping server State!
+[2019-01-12 05:16:59] [SERVER] WRITING ADDITIONAL ENTITIES
+[2019-01-12 05:16:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/FACTIONS.fac to /home/starmade/starmade/StarMade/./server-database/world0/FACTIONS.fac.old
+[2019-01-12 05:16:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/FACTIONS.fac
+[2019-01-12 05:16:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/FACTIONS.fac.tmp to /home/starmade/starmade/StarMade/./server-database/world0/FACTIONS.fac
+[2019-01-12 05:16:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/CATALOG.cat to /home/starmade/starmade/StarMade/./server-database/world0/CATALOG.cat.old
+[2019-01-12 05:16:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/CATALOG.cat
+[2019-01-12 05:16:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/CATALOG.cat.tmp to /home/starmade/starmade/StarMade/./server-database/world0/CATALOG.cat
+[2019-01-12 05:16:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/NPCFACTIONS_0_0_0.tag to /home/starmade/starmade/StarMade/./server-database/world0/NPCFACTIONS_0_0_0.tag.old
+[2019-01-12 05:16:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/NPCFACTIONS_0_0_0.tag
+[2019-01-12 05:16:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/NPCFACTIONS_0_0_0.tag.tmp to /home/starmade/starmade/StarMade/./server-database/world0/NPCFACTIONS_0_0_0.tag
+[2019-01-12 05:16:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/chatchannels.tag to /home/starmade/starmade/StarMade/./server-database/world0/chatchannels.tag.old
+[2019-01-12 05:16:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/chatchannels.tag
+[2019-01-12 05:16:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/chatchannels.tag.tmp to /home/starmade/starmade/StarMade/./server-database/world0/chatchannels.tag
+[2019-01-12 05:16:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/TRADING.tag to /home/starmade/starmade/StarMade/./server-database/world0/TRADING.tag.old
+[2019-01-12 05:16:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/TRADING.tag
+[2019-01-12 05:16:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/TRADING.tag.tmp to /home/starmade/starmade/StarMade/./server-database/world0/TRADING.tag
+[2019-01-12 05:16:59] [SERVER] WRITING ADDITIONAL ENTITIES DONE
+[2019-01-12 05:16:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim to /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim.old
+[2019-01-12 05:16:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim
+[2019-01-12 05:16:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/SIMULATION_STATE.sim.tmp to /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim
+[2019-01-12 05:16:59] [SERVER] SERVER AUTOSAVE END. ServerState saved!
+[2019-01-12 05:21:48] [SERVER][NPC] scheduling faction turn for Faction [id=-9999999, name=Outcasts, description=The Outcasts is a loose organization comprised of many different alien species. The harshness of space has left these people without a home, and so they rely on each to survive. The Outcasts are not particularly strong, but treat outsiders with justifiable wariness. The Outcasts are spread thin across the stars and seek to avoid the attention of others., size: 0; FP: 100]
+[2019-01-12 05:21:48] [SERVER][NPC] scheduling faction turn for Faction [id=-9999998, name=Scavengers, description=The Scavengers are a violent people. They care only for themselves, and are willing to do whatever it takes to achieve their goals. Space is a bleak place, and it has driven them to the extremes.Their unwillingness to work with others leaves them at a disadvantage. As a result, the Scavengers are fairly weak. They are little more than a nuisance to many other factions., size: 0; FP: 100]
+[2019-01-12 05:21:48] [SERVER][NPC] scheduling faction turn for Faction [id=-10000000, name=Traders, description=The Trading Guild is a collection of large corporations. They work to better themselves primarily through trade and economics.The Trading Guild treats others with neutrality, and they hardly care who or what they sell their products to. Their wealth grants them strength, but they are a relatively peaceful faction., size: 0; FP: 100]
+[2019-01-12 05:21:49] [SERVER][UPDATE] WARNING: object local update of SenableGameState(1) took 1224
+[2019-01-12 05:21:49] [SERVER][UPDATE] WARNING: object local update of 2 objects took 1224
+[2019-01-12 05:21:52] [SERVER][UPDATE] WARNING: object local update of SenableGameState(1) took 1269
+[2019-01-12 05:21:52] [SERVER][UPDATE] WARNING: object local update of 2 objects took 1269
+[2019-01-12 05:21:54] [SERVER][UPDATE] WARNING: object local update of SenableGameState(1) took 1250
+[2019-01-12 05:21:54] [SERVER][UPDATE] WARNING: object local update of 2 objects took 1250
+[2019-01-12 05:21:59] [SERVER] SERVER AUTOSAVE START. Dumping server State!
+[2019-01-12 05:21:59] [SERVER] WRITING ADDITIONAL ENTITIES
+[2019-01-12 05:21:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/FACTIONS.fac to /home/starmade/starmade/StarMade/./server-database/world0/FACTIONS.fac.old
+[2019-01-12 05:21:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/FACTIONS.fac
+[2019-01-12 05:21:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/FACTIONS.fac.tmp to /home/starmade/starmade/StarMade/./server-database/world0/FACTIONS.fac
+[2019-01-12 05:21:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/CATALOG.cat to /home/starmade/starmade/StarMade/./server-database/world0/CATALOG.cat.old
+[2019-01-12 05:21:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/CATALOG.cat
+[2019-01-12 05:21:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/CATALOG.cat.tmp to /home/starmade/starmade/StarMade/./server-database/world0/CATALOG.cat
+[2019-01-12 05:21:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/NPCFACTIONS_0_0_0.tag to /home/starmade/starmade/StarMade/./server-database/world0/NPCFACTIONS_0_0_0.tag.old
+[2019-01-12 05:21:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/NPCFACTIONS_0_0_0.tag
+[2019-01-12 05:21:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/NPCFACTIONS_0_0_0.tag.tmp to /home/starmade/starmade/StarMade/./server-database/world0/NPCFACTIONS_0_0_0.tag
+[2019-01-12 05:21:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/chatchannels.tag to /home/starmade/starmade/StarMade/./server-database/world0/chatchannels.tag.old
+[2019-01-12 05:21:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/chatchannels.tag
+[2019-01-12 05:21:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/chatchannels.tag.tmp to /home/starmade/starmade/StarMade/./server-database/world0/chatchannels.tag
+[2019-01-12 05:21:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/TRADING.tag to /home/starmade/starmade/StarMade/./server-database/world0/TRADING.tag.old
+[2019-01-12 05:21:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/TRADING.tag
+[2019-01-12 05:21:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/TRADING.tag.tmp to /home/starmade/starmade/StarMade/./server-database/world0/TRADING.tag
+[2019-01-12 05:21:59] [SERVER] WRITING ADDITIONAL ENTITIES DONE
+[2019-01-12 05:21:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim to /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim.old
+[2019-01-12 05:21:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim
+[2019-01-12 05:21:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/SIMULATION_STATE.sim.tmp to /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim
+[2019-01-12 05:21:59] [SERVER] SERVER AUTOSAVE END. ServerState saved!
