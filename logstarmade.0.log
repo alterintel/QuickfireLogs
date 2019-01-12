@@ -9718,3 +9718,25 @@
 [2019-01-12 05:21:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim
 [2019-01-12 05:21:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/SIMULATION_STATE.sim.tmp to /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim
 [2019-01-12 05:21:59] [SERVER] SERVER AUTOSAVE END. ServerState saved!
+[2019-01-12 05:26:59] [SERVER] SERVER AUTOSAVE START. Dumping server State!
+[2019-01-12 05:26:59] [SERVER] WRITING ADDITIONAL ENTITIES
+[2019-01-12 05:26:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/FACTIONS.fac to /home/starmade/starmade/StarMade/./server-database/world0/FACTIONS.fac.old
+[2019-01-12 05:26:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/FACTIONS.fac
+[2019-01-12 05:26:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/FACTIONS.fac.tmp to /home/starmade/starmade/StarMade/./server-database/world0/FACTIONS.fac
+[2019-01-12 05:26:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/CATALOG.cat to /home/starmade/starmade/StarMade/./server-database/world0/CATALOG.cat.old
+[2019-01-12 05:26:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/CATALOG.cat
+[2019-01-12 05:26:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/CATALOG.cat.tmp to /home/starmade/starmade/StarMade/./server-database/world0/CATALOG.cat
+[2019-01-12 05:26:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/NPCFACTIONS_0_0_0.tag to /home/starmade/starmade/StarMade/./server-database/world0/NPCFACTIONS_0_0_0.tag.old
+[2019-01-12 05:26:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/NPCFACTIONS_0_0_0.tag
+[2019-01-12 05:26:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/NPCFACTIONS_0_0_0.tag.tmp to /home/starmade/starmade/StarMade/./server-database/world0/NPCFACTIONS_0_0_0.tag
+[2019-01-12 05:26:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/chatchannels.tag to /home/starmade/starmade/StarMade/./server-database/world0/chatchannels.tag.old
+[2019-01-12 05:26:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/chatchannels.tag
+[2019-01-12 05:26:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/chatchannels.tag.tmp to /home/starmade/starmade/StarMade/./server-database/world0/chatchannels.tag
+[2019-01-12 05:26:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/TRADING.tag to /home/starmade/starmade/StarMade/./server-database/world0/TRADING.tag.old
+[2019-01-12 05:26:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/TRADING.tag
+[2019-01-12 05:26:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/TRADING.tag.tmp to /home/starmade/starmade/StarMade/./server-database/world0/TRADING.tag
+[2019-01-12 05:26:59] [SERVER] WRITING ADDITIONAL ENTITIES DONE
+[2019-01-12 05:26:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim to /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim.old
+[2019-01-12 05:26:59] [SERVER] DELETING ORIGINALFILE TO REPLACE WITH NEW ONE: true; /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim
+[2019-01-12 05:26:59] [IO][COPY] FILE FROM /home/starmade/starmade/StarMade/./server-database/world0/tmp/SIMULATION_STATE.sim.tmp to /home/starmade/starmade/StarMade/./server-database/world0/SIMULATION_STATE.sim
+[2019-01-12 05:26:59] [SERVER] SERVER AUTOSAVE END. ServerState saved!
