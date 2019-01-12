@@ -1,0 +1,137 @@
+[2019-01-02 14:55:39] STARMADE SERVER VERSION: 0.201.341; Build(20190101_191106)
+[2019-01-02 14:55:39] STARMADE SERVER STARTED: Wed Jan 02 14:55:39 EST 2019
+[2019-01-02 14:55:44] [SERVERSOCKET] Incoming connection: 50235, /174.58.17.168 -> 4242, /158.69.122.144
+[2019-01-02 14:55:45] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
+[2019-01-02 14:55:46] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1546457099027] -> protected = true
+[2019-01-02 14:55:46] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
+[2019-01-02 14:55:47] [LOGIN] logged in RegisteredClient: Ithirahad (1) [Ithirahad]connected: true (/174.58.17.168:50235)
+[2019-01-02 14:55:50] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
+[2019-01-02 14:55:57] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-01-02 15:02:01] [SERVERSOCKET] Incoming connection: 61834, /77.136.196.155 -> 4242, /158.69.122.144
+[2019-01-02 15:02:01] [AUTH] authenticating Scypio; useAuth: true; requireAuth: true
+[2019-01-02 15:02:01] [AUTH] Protection status of Scypio is ProtectedUplinkName [username=Scypio, timeProtected=1546454504444] -> protected = true
+[2019-01-02 15:02:01] [AUTH] PROTECTING USER scypio under uplink id Scypio
+[2019-01-02 15:02:01] [LOGIN] logged in RegisteredClient: Scypio (2) [Scypio]connected: true (/77.136.196.155:61834)
+[2019-01-02 15:02:25] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Scypio,  Welcome to The QuickFire Initiative! ]
+[2019-01-02 15:02:31] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Scypio,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-01-02 15:03:00] [ADMINCOMMAND] Scypio used: 'LOAD_AS_FACTION' with args [Test_target, Test_target_1546459380341, 0]
+[2019-01-02 15:03:00] [BLUEPRINT][LOAD] <admin> loaded Test_target as "Test_target_1546459380341" in (45, 47, 40) as faction 0
+[2019-01-02 15:07:41] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:07:41] [ADMIN COMMAND] destroying entity: Ship[Isanth Type-Zero Bc 171-7](362)
+[2019-01-02 15:07:45] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:07:45] [ADMIN COMMAND] destroying entity: Ship[Isanth Type-Zero C- 171-5](346)
+[2019-01-02 15:07:47] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:07:47] [ADMIN COMMAND] destroying entity: Ship[Isanth Type-Zero Bm 171-9](350)
+[2019-01-02 15:07:50] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:07:50] [ADMIN COMMAND] destroying entity: Ship[Isanth Type-Zero B- 171-6](361)
+[2019-01-02 15:07:53] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:07:53] [ADMIN COMMAND] destroying entity: Ship[Isanth Type-Zero Cm 171-8](363)
+[2019-01-02 15:07:59] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:07:59] [ADMIN COMMAND] destroying entity: Ship[TURRENT 171-1](355)
+[2019-01-02 15:08:03] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:03] [ADMIN COMMAND] destroying entity: Ship[MOB_SIM_TURRENT_171_1rl0](356)
+[2019-01-02 15:08:07] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:07] [ADMIN COMMAND] destroying entity: Ship[test-turret-0 171-2](357)
+[2019-01-02 15:08:10] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:10] [ADMIN COMMAND] destroying entity: Ship[Artillery turrent 171-0](365)
+[2019-01-02 15:08:12] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:12] [ADMIN COMMAND] destroying entity: Ship[MOB_SIM_Artillery turrent_171_0rl0rl00](366)
+[2019-01-02 15:08:14] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:14] [ADMIN COMMAND] destroying entity: Ship[Isanth Type-Zero Cb 171-10](351)
+[2019-01-02 15:08:17] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:17] [ADMIN COMMAND] destroying entity: Ship[derps-wall-brick-ship-thingy 171-3](359)
+[2019-01-02 15:08:19] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:19] [ADMIN COMMAND] destroying entity: Ship[Elintaar frame 6-1-18 171-4](360)
+[2019-01-02 15:08:22] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:22] [ADMIN COMMAND] destroying entity: SpaceStation[ENTITY_SPACESTATION_Station_Piratestation Eta_45_47_41_1545522514908(65)]
+[2019-01-02 15:08:26] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:26] [ADMIN COMMAND] destroying entity: Ship[MOB_SIM_test-turret-0_171_2rl0](358)
+[2019-01-02 15:08:28] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:28] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_15455225149083](61)
+[2019-01-02 15:08:29] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:29] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_154552251490810](72)
+[2019-01-02 15:08:31] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:31] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_154552251490814](76)
+[2019-01-02 15:08:32] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:32] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_154552251490815](71)
+[2019-01-02 15:08:34] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:34] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_15455225149084](60)
+[2019-01-02 15:08:35] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:35] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_154552251490812](63)
+[2019-01-02 15:08:37] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:37] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_15455225149089](77)
+[2019-01-02 15:08:38] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:38] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_154552251490816](62)
+[2019-01-02 15:08:40] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:40] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_154552251490813](73)
+[2019-01-02 15:08:40] [ADMINCOMMAND] Ithirahad used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:40] [ADMIN COMMAND] destroying entity: Ship[Test_target_1546459380341](354)
+[2019-01-02 15:08:41] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:41] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_15455225149086](68)
+[2019-01-02 15:08:43] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:43] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_15455225149085](69)
+[2019-01-02 15:08:44] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:44] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_15455225149087](70)
+[2019-01-02 15:08:45] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:45] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_15455225149088](67)
+[2019-01-02 15:08:46] [ADMINCOMMAND] Ithirahad used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:46] [ADMIN COMMAND] destroying entity: Ship[Test_target_1546454940011](42)
+[2019-01-02 15:08:47] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:47] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_15455225149082](75)
+[2019-01-02 15:08:48] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:48] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_15455225149080](66)
+[2019-01-02 15:08:49] [ADMINCOMMAND] Ithirahad used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:49] [ADMIN COMMAND] destroying entity: Ship[Test_target_1546450528500](41)
+[2019-01-02 15:08:53] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:53] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_15455225149081](74)
+[2019-01-02 15:08:55] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY' with args []
+[2019-01-02 15:08:55] [ADMIN COMMAND] destroying entity: Ship[Station_Piratestation Eta_45_47_41_154552251490811](64)
+[2019-01-02 15:11:50] [ADMINCOMMAND] Ithirahad used: 'LOAD_AS_FACTION' with args [reduced weapon size shield tank thingy, thing, 10005]
+[2019-01-02 15:11:50] [BLUEPRINT][LOAD] <admin> loaded reduced weapon size shield tank thingy as "thing" in (45, 47, 40) as faction 10005
+[2019-01-02 15:12:51] [ADMINCOMMAND] Scypio used: 'LOAD_AS_FACTION' with args [BRICKBATTLESHIP, BRICKBATTLESHIP_1546459970668, 0]
+[2019-01-02 15:12:51] [BLUEPRINT][LOAD] <admin> loaded BRICKBATTLESHIP as "BRICKBATTLESHIP_1546459970668" in (45, 47, 40) as faction 0
+[2019-01-02 15:13:17] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY_DOCK' with args []
+[2019-01-02 15:13:17] [ADMIN COMMAND] destroying entity: Ship[BRICKBATTLESHIP_1546459970668](368)
+[2019-01-02 15:14:28] [ADMINCOMMAND] Scypio used: 'LOAD_AS_FACTION' with args [Aieth-Ilyaana-class Frigate 7-29-18 v1, Aieth-Ilyaana-class Frigate 7-29-18 v1_15464600673, 0]
+[2019-01-02 15:14:28] [BLUEPRINT][LOAD] <admin> loaded Aieth-Ilyaana-class Frigate 7-29-18 v1 as "Aieth-Ilyaana-class Frigate 7-29-18 v1_15464600673" in (45, 47, 40) as faction 0
+[2019-01-02 15:14:56] [ADMINCOMMAND] Scypio used: 'DESTROY_ENTITY_DOCK' with args []
+[2019-01-02 15:14:56] [ADMIN COMMAND] destroying entity: Ship[Aieth-Ilyaana-class Frigate 7-29-18 v1_15464600673](383)
+[2019-01-02 15:19:15] [SPAWN] Ithirahad spawned new ship: "Ithirahad_1546460351560"
+[2019-01-02 15:29:55] [DISCONNECT] Client 'RegisteredClient: Ithirahad (1) [Ithirahad]connected: true' IP(/174.58.17.168:50235) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 0
+[2019-01-02 15:29:55] [LOGOUT] logging out client ID RegisteredClient: Ithirahad (1) [Ithirahad]connected: true
+[2019-01-02 15:29:57] [SERVERSOCKET] Incoming connection: 53013, /174.58.17.168 -> 4242, /158.69.122.144
+[2019-01-02 15:29:57] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
+[2019-01-02 15:29:57] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1546458946354] -> protected = true
+[2019-01-02 15:29:57] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
+[2019-01-02 15:29:57] [LOGIN] logged in RegisteredClient: Ithirahad (3) [Ithirahad]connected: true (/174.58.17.168:53013)
+[2019-01-02 15:30:00] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
+[2019-01-02 15:30:02] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-01-02 15:36:25] [ADMINCOMMAND] #CONSOLE# used: 'START_COUNTDOWN' with args [600, Shutting down server..]
+[2019-01-02 15:36:26] [ADMINCOMMAND] #CONSOLE# used: 'FORCE_SAVE' with args []
+[2019-01-02 15:38:18] [DISCONNECT] Client 'RegisteredClient: Ithirahad (3) [Ithirahad]connected: true' IP(/174.58.17.168:53013) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 2
+[2019-01-02 15:38:18] [LOGOUT] logging out client ID RegisteredClient: Ithirahad (3) [Ithirahad]connected: true
+[2019-01-02 15:38:19] [SERVERSOCKET] Incoming connection: 53685, /174.58.17.168 -> 4242, /158.69.122.144
+[2019-01-02 15:38:19] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
+[2019-01-02 15:38:19] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1546460997619] -> protected = true
+[2019-01-02 15:38:19] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
+[2019-01-02 15:38:20] [LOGIN] logged in RegisteredClient: Ithirahad (4) [Ithirahad]connected: true (/174.58.17.168:53685)
+[2019-01-02 15:38:23] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
+[2019-01-02 15:39:13] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-01-02 15:46:26] [ADMINCOMMAND] #CONSOLE# used: 'SHUTDOWN' with args [1]
+[2019-01-02 15:46:27] [SHUTDOWN] Shutting down server
+[2019-01-02 15:46:27] [SHUTDOWN] shutting down element collection thread
+[2019-01-02 15:46:27] [SHUTDOWN] shutting down pathfinding threads
+[2019-01-02 15:46:27] [SHUTDOWN] shutting down universe
+[2019-01-02 15:46:27] [SHUTDOWN] shutting down segment request thread
+[2019-01-02 15:46:27] [SHUTDOWN] shutting down simulation
+[2019-01-02 15:46:27] [SHUTDOWN] shutting down active checker
+[2019-01-02 15:46:27] [SHUTDOWN] shutting sysin listener
+[2019-01-02 15:46:27] [SHUTDOWN] shutting down mob thread
+[2019-01-02 15:46:27] [SHUTDOWN] shutting down game map provider
+[2019-01-02 15:46:27] [SHUTDOWN] server stop listening
+[2019-01-02 15:46:27] [SHUTDOWN] disconnecting all clients
+[2019-01-02 15:46:27] [SHUTDOWN] writing current universe STARTED
+[2019-01-02 15:46:27] [DISCONNECT] Client 'RegisteredClient: Ithirahad (4) [Ithirahad]connected: true' IP(/174.58.17.168:53685) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 3
+[2019-01-02 15:46:27] [DISCONNECT] Client 'RegisteredClient: Scypio (2) [Scypio]connected: true' IP(/77.136.196.155:61834) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 1
+[2019-01-02 15:46:32] [SHUTDOWN] database closed successfully
+[2019-01-02 15:46:32] [SHUTDOWN] writing current universe FINISHED

@@ -1,0 +1,38 @@
+[2019-01-02 15:46:41] STARMADE SERVER VERSION: 0.201.341; Build(20190101_191106)
+[2019-01-02 15:46:41] STARMADE SERVER STARTED: Wed Jan 02 15:46:41 EST 2019
+[2019-01-02 15:47:51] [SERVERSOCKET] Incoming connection: 62644, /77.136.196.155 -> 4242, /158.69.122.144
+[2019-01-02 15:47:52] [AUTH] authenticating Scypio; useAuth: true; requireAuth: true
+[2019-01-02 15:47:52] [AUTH] Protection status of Scypio is ProtectedUplinkName [username=Scypio, timeProtected=1546459321253] -> protected = true
+[2019-01-02 15:47:52] [AUTH] PROTECTING USER scypio under uplink id Scypio
+[2019-01-02 15:47:53] [LOGIN] logged in RegisteredClient: Scypio (1) [Scypio]connected: true (/77.136.196.155:62644)
+[2019-01-02 15:48:11] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Scypio,  Welcome to The QuickFire Initiative! ]
+[2019-01-02 15:48:13] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Scypio,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-01-02 15:48:23] [SPAWN] Scypio spawned new ship: "Scypio_1546462102092"
+[2019-01-02 15:59:32] [SERVERSOCKET] Incoming connection: 55454, /174.58.17.168 -> 4242, /158.69.122.144
+[2019-01-02 15:59:32] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
+[2019-01-02 15:59:33] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1546461499942] -> protected = true
+[2019-01-02 15:59:33] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
+[2019-01-02 15:59:33] [LOGIN] logged in RegisteredClient: Ithirahad (2) [Ithirahad]connected: true (/174.58.17.168:55454)
+[2019-01-02 15:59:42] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
+[2019-01-02 16:04:52] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-01-02 16:19:30] [DISCONNECT] Client 'RegisteredClient: Scypio (1) [Scypio]connected: true' IP(/77.136.196.155:62644) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 0
+[2019-01-02 16:19:30] [LOGOUT] logging out client ID RegisteredClient: Scypio (1) [Scypio]connected: true
+[2019-01-02 16:23:25] [ADMINCOMMAND] #CONSOLE# used: 'START_COUNTDOWN' with args [600, Shutting down server..]
+[2019-01-02 16:23:26] [ADMINCOMMAND] #CONSOLE# used: 'FORCE_SAVE' with args []
+[2019-01-02 16:33:26] [ADMINCOMMAND] #CONSOLE# used: 'SHUTDOWN' with args [1]
+[2019-01-02 16:33:27] [SHUTDOWN] Shutting down server
+[2019-01-02 16:33:27] [SHUTDOWN] shutting down element collection thread
+[2019-01-02 16:33:27] [SHUTDOWN] shutting down pathfinding threads
+[2019-01-02 16:33:27] [SHUTDOWN] shutting down universe
+[2019-01-02 16:33:27] [SHUTDOWN] shutting down segment request thread
+[2019-01-02 16:33:27] [SHUTDOWN] shutting down simulation
+[2019-01-02 16:33:27] [SHUTDOWN] shutting down active checker
+[2019-01-02 16:33:27] [SHUTDOWN] shutting sysin listener
+[2019-01-02 16:33:27] [SHUTDOWN] shutting down mob thread
+[2019-01-02 16:33:27] [SHUTDOWN] shutting down game map provider
+[2019-01-02 16:33:27] [SHUTDOWN] server stop listening
+[2019-01-02 16:33:27] [SHUTDOWN] disconnecting all clients
+[2019-01-02 16:33:27] [SHUTDOWN] writing current universe STARTED
+[2019-01-02 16:33:27] [DISCONNECT] Client 'RegisteredClient: Ithirahad (2) [Ithirahad]connected: true' IP(/174.58.17.168:55454) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 1
+[2019-01-02 16:33:32] [SHUTDOWN] database closed successfully
+[2019-01-02 16:33:32] [SHUTDOWN] writing current universe FINISHED
