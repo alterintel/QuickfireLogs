@@ -1,83 +1,39 @@
-[2019-03-26 06:03:05] STARMADE SERVER VERSION: 0.201.364; Build(20190219_163910)
-[2019-03-26 06:03:05] STARMADE SERVER STARTED: Tue Mar 26 06:03:05 EDT 2019
-[2019-03-26 18:32:21] [SERVERSOCKET] Incoming connection: 58200, /2.232.253.139 -> 4242, /158.69.122.144
-[2019-03-26 18:32:21] [DISCONNECT] Client 'Info-Pinger (server-lists)' IP(/2.232.253.139:58200) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 0
-[2019-03-27 06:20:32] [SERVERSOCKET] Incoming connection: 7004, /185.156.177.153 -> 4242, /158.69.122.144
-[2019-03-27 06:20:32] [DISCONNECT] Client 'null' IP(/185.156.177.153:7004) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 1
-[2019-03-27 06:20:32] [SERVERSOCKET] Incoming connection: 17448, /185.156.177.153 -> 4242, /158.69.122.144
-[2019-03-27 06:20:42] [DISCONNECT] Client 'null' IP(/185.156.177.153:17448) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 2
-[2019-03-27 06:20:43] [SERVERSOCKET] Incoming connection: 37360, /185.156.177.153 -> 4242, /158.69.122.144
-[2019-03-27 06:20:53] [DISCONNECT] Client 'null' IP(/185.156.177.153:37360) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 3
-[2019-03-27 08:24:30] [SERVERSOCKET] Incoming connection: 4273, /185.222.211.146 -> 4242, /158.69.122.144
-[2019-03-27 08:24:40] [DISCONNECT] Client 'null' IP(/185.222.211.146:4273) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 4
-[2019-03-27 16:23:04] [SERVERSOCKET] Incoming connection: 41054, /198.108.67.48 -> 4242, /158.69.122.144
-[2019-03-27 16:23:05] [DISCONNECT] Client 'null' IP(/198.108.67.48:41054) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 5
-[2019-03-27 16:23:05] [SERVERSOCKET] Incoming connection: 48758, /198.108.67.48 -> 4242, /158.69.122.144
-[2019-03-27 16:23:05] [DISCONNECT] Client 'null' IP(/198.108.67.48:48758) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 6
-[2019-03-27 16:23:05] [SERVERSOCKET] Incoming connection: 49200, /198.108.67.48 -> 4242, /158.69.122.144
-[2019-03-27 16:23:05] [DISCONNECT] Client 'null' IP(/198.108.67.48:49200) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 7
-[2019-03-27 17:43:57] [SERVERSOCKET] Incoming connection: 59976, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:07] [DISCONNECT] Client 'null' IP(/54.38.100.81:59976) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 8
-[2019-03-27 17:44:07] [SERVERSOCKET] Incoming connection: 60164, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:07] [DISCONNECT] Client 'null' IP(/54.38.100.81:60164) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 9
-[2019-03-27 17:44:08] [SERVERSOCKET] Incoming connection: 60170, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:08] [DISCONNECT] Client 'null' IP(/54.38.100.81:60170) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 10
-[2019-03-27 17:44:08] [SERVERSOCKET] Incoming connection: 60174, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:08] [DISCONNECT] Client 'null' IP(/54.38.100.81:60174) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 11
-[2019-03-27 17:44:08] [SERVERSOCKET] Incoming connection: 60180, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:08] [DISCONNECT] Client 'null' IP(/54.38.100.81:60180) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 12
-[2019-03-27 17:44:08] [SERVERSOCKET] Incoming connection: 60182, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:08] [DISCONNECT] Client 'null' IP(/54.38.100.81:60182) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 13
-[2019-03-27 17:44:08] [SERVERSOCKET] Incoming connection: 60184, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:13] [DISCONNECT] Client 'null' IP(/54.38.100.81:60184) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 14
-[2019-03-27 17:44:13] [SERVERSOCKET] Incoming connection: 60294, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:18] [DISCONNECT] Client 'null' IP(/54.38.100.81:60294) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 15
-[2019-03-27 17:44:19] [SERVERSOCKET] Incoming connection: 60954, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:19] [DISCONNECT] Client 'null' IP(/54.38.100.81:60954) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 16
-[2019-03-27 17:44:19] [SERVERSOCKET] Incoming connection: 32828, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:19] [DISCONNECT] Client 'null' IP(/54.38.100.81:32828) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 17
-[2019-03-27 17:44:19] [SERVERSOCKET] Incoming connection: 32840, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:19] [DISCONNECT] Client 'null' IP(/54.38.100.81:32840) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 18
-[2019-03-27 17:44:19] [SERVERSOCKET] Incoming connection: 32864, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:24] [DISCONNECT] Client 'null' IP(/54.38.100.81:32864) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 19
-[2019-03-27 17:44:24] [SERVERSOCKET] Incoming connection: 33084, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:24] [DISCONNECT] Client 'null' IP(/54.38.100.81:33084) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 20
-[2019-03-27 17:44:24] [SERVERSOCKET] Incoming connection: 33086, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:24] [DISCONNECT] Client 'null' IP(/54.38.100.81:33086) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 21
-[2019-03-27 17:44:25] [SERVERSOCKET] Incoming connection: 33088, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:30] [DISCONNECT] Client 'null' IP(/54.38.100.81:33088) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 22
-[2019-03-27 17:44:30] [SERVERSOCKET] Incoming connection: 33496, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:30] [DISCONNECT] Client 'null' IP(/54.38.100.81:33496) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 23
-[2019-03-27 17:44:30] [SERVERSOCKET] Incoming connection: 33502, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:30] [DISCONNECT] Client 'null' IP(/54.38.100.81:33502) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 24
-[2019-03-27 17:44:30] [SERVERSOCKET] Incoming connection: 33506, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:30] [DISCONNECT] Client 'null' IP(/54.38.100.81:33506) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 25
-[2019-03-27 17:44:30] [SERVERSOCKET] Incoming connection: 33508, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:35] [DISCONNECT] Client 'null' IP(/54.38.100.81:33508) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 26
-[2019-03-27 17:44:35] [SERVERSOCKET] Incoming connection: 33920, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:35] [DISCONNECT] Client 'null' IP(/54.38.100.81:33920) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 27
-[2019-03-27 17:44:35] [SERVERSOCKET] Incoming connection: 33924, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:35] [DISCONNECT] Client 'null' IP(/54.38.100.81:33924) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 28
-[2019-03-27 17:44:36] [SERVERSOCKET] Incoming connection: 33928, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:41] [DISCONNECT] Client 'null' IP(/54.38.100.81:33928) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 29
-[2019-03-27 17:44:41] [SERVERSOCKET] Incoming connection: 34254, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:46] [DISCONNECT] Client 'null' IP(/54.38.100.81:34254) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 30
-[2019-03-27 17:44:46] [SERVERSOCKET] Incoming connection: 34612, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:51] [DISCONNECT] Client 'null' IP(/54.38.100.81:34612) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 31
-[2019-03-27 17:44:51] [SERVERSOCKET] Incoming connection: 34718, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:44:51] [DISCONNECT] Client 'null' IP(/54.38.100.81:34718) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 32
-[2019-03-27 17:49:21] [SERVERSOCKET] Incoming connection: 543, /54.38.100.81 -> 4242, /158.69.122.144
-[2019-03-27 17:49:21] [DISCONNECT] Client 'null' IP(/54.38.100.81:543) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 33
-[2019-03-27 22:25:49] [SERVERSOCKET] Incoming connection: 64499, /174.58.17.168 -> 4242, /158.69.122.144
-[2019-03-27 22:25:50] [DISCONNECT] Client 'Info-Pinger (server-lists)' IP(/174.58.17.168:64499) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 34
-[2019-03-27 22:26:06] [SERVERSOCKET] Incoming connection: 64501, /174.58.17.168 -> 4242, /158.69.122.144
-[2019-03-27 22:26:06] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
-[2019-03-27 22:26:07] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1550248346317] -> protected = true
-[2019-03-27 22:26:07] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
-[2019-03-27 22:26:07] [LOGIN] login failed for /174.58.17.168:64501 (ERROR_WRONG_CLIENT_VERSION)
-[2019-03-27 22:26:07] [DISCONNECT] Client 'null' IP(/174.58.17.168:64501) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 35
-[2019-03-27 22:29:21] [SERVERSOCKET] Incoming connection: 49086, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-03-27 22:29:21] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:49086) used: 'START_COUNTDOWN' with args [60, Server shutting down for an update check in..]
-[2019-03-27 22:29:21] [DISCONNECT] Client 'null' IP(/127.0.0.1:49086) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 36
-[2019-03-27 22:29:28] [SERVERSOCKET] Incoming connection: 64581, /174.58.17.168 -> 4242, /158.69.122.144
-[2019-03-27 22:29:28] [DISCONNECT] Client 'Info-Pinger (server-lists)' IP(/174.58.17.168:64581) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 37
+[2019-03-27 22:30:43] STARMADE SERVER VERSION: 0.201.370; Build(20190316_235125)
+[2019-03-27 22:30:43] STARMADE SERVER STARTED: Wed Mar 27 22:30:43 EDT 2019
+[2019-03-27 22:31:29] [SERVERSOCKET] Incoming connection: 64595, /174.58.17.168 -> 4242, /158.69.122.144
+[2019-03-27 22:31:29] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
+[2019-03-27 22:31:30] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1553739967539] -> protected = true
+[2019-03-27 22:31:30] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
+[2019-03-27 22:31:30] [LOGIN] logged in RegisteredClient: Ithirahad (1) [Ithirahad]connected: true (/174.58.17.168:64595)
+[2019-03-27 22:32:08] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
+[2019-03-27 22:32:08] [DISCONNECT] Client 'RegisteredClient: Ithirahad (1) [Ithirahad]connected: true' IP(/174.58.17.168:64595) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 0
+[2019-03-27 22:32:08] [LOGOUT] logging out client ID RegisteredClient: Ithirahad (1) [Ithirahad]connected: true
+[2019-03-27 22:32:11] [SERVERSOCKET] Incoming connection: 64622, /174.58.17.168 -> 4242, /158.69.122.144
+[2019-03-27 22:32:11] [DISCONNECT] Client 'Info-Pinger (server-lists)' IP(/174.58.17.168:64622) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 1
+[2019-03-27 22:53:32] [SERVERSOCKET] Incoming connection: 64678, /174.58.17.168 -> 4242, /158.69.122.144
+[2019-03-27 22:53:32] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
+[2019-03-27 22:53:33] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1553740290193] -> protected = true
+[2019-03-27 22:53:33] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
+[2019-03-27 22:53:33] [LOGIN] logged in RegisteredClient: Ithirahad (2) [Ithirahad]connected: true (/174.58.17.168:64678)
+[2019-03-27 22:53:37] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
+[2019-03-27 22:54:24] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-03-27 22:59:37] [DISCONNECT] Client 'RegisteredClient: Ithirahad (2) [Ithirahad]connected: true' IP(/174.58.17.168:64678) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 2
+[2019-03-27 22:59:37] [LOGOUT] logging out client ID RegisteredClient: Ithirahad (2) [Ithirahad]connected: true
+[2019-03-27 23:07:49] [ADMINCOMMAND] #CONSOLE# used: 'START_COUNTDOWN' with args [10, Shutting down server..]
+[2019-03-27 23:07:49] [ADMINCOMMAND] #CONSOLE# used: 'FORCE_SAVE' with args []
+[2019-03-27 23:08:00] [ADMINCOMMAND] #CONSOLE# used: 'SHUTDOWN' with args [1]
+[2019-03-27 23:08:01] [SHUTDOWN] Shutting down server
+[2019-03-27 23:08:01] [SHUTDOWN] shutting down element collection thread
+[2019-03-27 23:08:01] [SHUTDOWN] shutting down pathfinding threads
+[2019-03-27 23:08:01] [SHUTDOWN] shutting down universe
+[2019-03-27 23:08:01] [SHUTDOWN] shutting down segment request thread
+[2019-03-27 23:08:01] [SHUTDOWN] shutting down simulation
+[2019-03-27 23:08:01] [SHUTDOWN] shutting down active checker
+[2019-03-27 23:08:01] [SHUTDOWN] shutting sysin listener
+[2019-03-27 23:08:01] [SHUTDOWN] shutting down mob thread
+[2019-03-27 23:08:01] [SHUTDOWN] shutting down game map provider
+[2019-03-27 23:08:01] [SHUTDOWN] server stop listening
+[2019-03-27 23:08:01] [SHUTDOWN] disconnecting all clients
+[2019-03-27 23:08:01] [SHUTDOWN] writing current universe STARTED
+[2019-03-27 23:08:07] [SHUTDOWN] database closed successfully
+[2019-03-27 23:08:07] [SHUTDOWN] writing current universe FINISHED

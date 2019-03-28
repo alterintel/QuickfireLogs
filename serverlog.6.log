@@ -1,23 +1,39 @@
-[2019-03-09 14:48:25] STARMADE SERVER VERSION: 0.201.364; Build(20190219_163910)
-[2019-03-09 14:48:25] STARMADE SERVER STARTED: Sat Mar 09 14:48:25 EST 2019
-[2019-03-09 14:49:39] [FACTION] Relationship Offer accepted: 21474834332516353 between Rel[a=-10000000, b=-9999999, rel=NEUTRAL]; Traders AND Outcasts; CODEA: 21474834332516353; CODEB: 21474836479999999
-[2019-03-09 14:50:18] [FACTION] Relationship Offer accepted: 21474832185032705 between Rel[a=-9999999, b=-9999998, rel=NEUTRAL]; Outcasts AND Scavengers; CODEA: 21474832185032705; CODEB: 21474834332516351
-[2019-03-09 14:50:18] [FACTION] Relationship Offer accepted: 21474836479999998 between Rel[a=-10000000, b=-9999998, rel=NEUTRAL]; Traders AND Scavengers; CODEA: 21474836479999998; CODEB: 21474832185032706
-[2019-03-09 15:54:50] [ADMINCOMMAND] #CONSOLE# used: 'START_COUNTDOWN' with args [900, Shutting down server..]
-[2019-03-09 15:54:51] [ADMINCOMMAND] #CONSOLE# used: 'FORCE_SAVE' with args []
-[2019-03-09 16:09:51] [ADMINCOMMAND] #CONSOLE# used: 'SHUTDOWN' with args [1]
-[2019-03-09 16:09:52] [SHUTDOWN] Shutting down server
-[2019-03-09 16:09:52] [SHUTDOWN] shutting down element collection thread
-[2019-03-09 16:09:52] [SHUTDOWN] shutting down pathfinding threads
-[2019-03-09 16:09:52] [SHUTDOWN] shutting down universe
-[2019-03-09 16:09:52] [SHUTDOWN] shutting down segment request thread
-[2019-03-09 16:09:52] [SHUTDOWN] shutting down simulation
-[2019-03-09 16:09:52] [SHUTDOWN] shutting down active checker
-[2019-03-09 16:09:52] [SHUTDOWN] shutting sysin listener
-[2019-03-09 16:09:52] [SHUTDOWN] shutting down mob thread
-[2019-03-09 16:09:52] [SHUTDOWN] shutting down game map provider
-[2019-03-09 16:09:52] [SHUTDOWN] server stop listening
-[2019-03-09 16:09:52] [SHUTDOWN] disconnecting all clients
-[2019-03-09 16:09:52] [SHUTDOWN] writing current universe STARTED
-[2019-03-09 16:09:57] [SHUTDOWN] database closed successfully
-[2019-03-09 16:09:57] [SHUTDOWN] writing current universe FINISHED
+[2019-03-09 16:10:01] STARMADE SERVER VERSION: 0.201.364; Build(20190219_163910)
+[2019-03-09 16:10:01] STARMADE SERVER STARTED: Sat Mar 09 16:10:01 EST 2019
+[2019-03-10 00:09:06] [SERVERSOCKET] Incoming connection: 61059, /173.23.192.120 -> 4242, /158.69.122.144
+[2019-03-10 00:09:07] [DISCONNECT] Client 'Info-Pinger (server-lists)' IP(/173.23.192.120:61059) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 0
+[2019-03-10 13:26:54] [SERVERSOCKET] Incoming connection: 61676, /173.23.192.120 -> 4242, /158.69.122.144
+[2019-03-10 13:26:54] [DISCONNECT] Client 'Info-Pinger (server-lists)' IP(/173.23.192.120:61676) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 1
+[2019-03-10 13:47:01] [SERVERSOCKET] Incoming connection: 61731, /173.23.192.120 -> 4242, /158.69.122.144
+[2019-03-10 13:47:01] [DISCONNECT] Client 'Info-Pinger (server-lists)' IP(/173.23.192.120:61731) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 2
+[2019-03-10 13:50:08] [SERVERSOCKET] Incoming connection: 61832, /173.23.192.120 -> 4242, /158.69.122.144
+[2019-03-10 13:50:08] [DISCONNECT] Client 'Info-Pinger (server-lists)' IP(/173.23.192.120:61832) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 3
+[2019-03-11 14:49:09] [SERVERSOCKET] Incoming connection: 9799, /206.110.235.121 -> 4242, /158.69.122.144
+[2019-03-11 14:49:09] [DISCONNECT] Client 'Info-Pinger (server-lists)' IP(/206.110.235.121:9799) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 4
+[2019-03-11 17:19:30] [SERVERSOCKET] Incoming connection: 47348, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-03-11 17:19:30] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:47348) used: 'STATUS' with args []
+[2019-03-11 17:19:30] [DISCONNECT] Client 'null' IP(/127.0.0.1:47348) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 5
+[2019-03-11 17:19:30] [SERVERSOCKET] Incoming connection: 47350, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-03-11 17:19:30] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:47350) used: 'STATUS' with args []
+[2019-03-11 17:19:30] [DISCONNECT] Client 'null' IP(/127.0.0.1:47350) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 6
+[2019-03-11 17:19:30] [SERVERSOCKET] Incoming connection: 47352, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-03-11 17:19:30] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:47352) used: 'PLAYER_LIST' with args []
+[2019-03-11 17:19:30] [DISCONNECT] Client 'null' IP(/127.0.0.1:47352) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 7
+[2019-03-11 17:19:44] [ADMINCOMMAND] #CONSOLE# used: 'START_COUNTDOWN' with args [900, Shutting down server..]
+[2019-03-11 17:19:45] [ADMINCOMMAND] #CONSOLE# used: 'FORCE_SAVE' with args []
+[2019-03-11 17:34:45] [ADMINCOMMAND] #CONSOLE# used: 'SHUTDOWN' with args [1]
+[2019-03-11 17:34:46] [SHUTDOWN] Shutting down server
+[2019-03-11 17:34:46] [SHUTDOWN] shutting down element collection thread
+[2019-03-11 17:34:46] [SHUTDOWN] shutting down pathfinding threads
+[2019-03-11 17:34:46] [SHUTDOWN] shutting down universe
+[2019-03-11 17:34:46] [SHUTDOWN] shutting down segment request thread
+[2019-03-11 17:34:46] [SHUTDOWN] shutting down simulation
+[2019-03-11 17:34:46] [SHUTDOWN] shutting down active checker
+[2019-03-11 17:34:46] [SHUTDOWN] shutting sysin listener
+[2019-03-11 17:34:46] [SHUTDOWN] shutting down mob thread
+[2019-03-11 17:34:46] [SHUTDOWN] shutting down game map provider
+[2019-03-11 17:34:46] [SHUTDOWN] server stop listening
+[2019-03-11 17:34:46] [SHUTDOWN] disconnecting all clients
+[2019-03-11 17:34:46] [SHUTDOWN] writing current universe STARTED
+[2019-03-11 17:34:51] [SHUTDOWN] database closed successfully
+[2019-03-11 17:34:51] [SHUTDOWN] writing current universe FINISHED

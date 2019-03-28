@@ -1,11 +1,7 @@
-[2019-03-27 23:08:15] STARMADE SERVER VERSION: 0.201.370; Build(20190316_235125)
-[2019-03-27 23:08:15] STARMADE SERVER STARTED: Wed Mar 27 23:08:15 EDT 2019
-[2019-03-27 23:08:57] [SERVERSOCKET] Incoming connection: 64782, /174.58.17.168 -> 4242, /158.69.122.144
-[2019-03-27 23:08:58] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
-[2019-03-27 23:08:59] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1553741613303] -> protected = true
-[2019-03-27 23:08:59] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
-[2019-03-27 23:08:59] [LOGIN] logged in RegisteredClient: Ithirahad (1) [Ithirahad]connected: true (/174.58.17.168:64782)
-[2019-03-27 23:09:26] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
-[2019-03-27 23:09:39] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
-[2019-03-27 23:10:27] [DISCONNECT] Client 'RegisteredClient: Ithirahad (1) [Ithirahad]connected: true' IP(/174.58.17.168:64782) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 0
-[2019-03-27 23:10:27] [LOGOUT] logging out client ID RegisteredClient: Ithirahad (1) [Ithirahad]connected: true
+[2019-03-27 23:11:48] STARMADE SERVER VERSION: 0.201.370; Build(20190316_235125)
+[2019-03-27 23:11:48] STARMADE SERVER STARTED: Wed Mar 27 23:11:48 EDT 2019
+[2019-03-27 23:26:17] [SERVERSOCKET] Incoming connection: 64914, /174.58.17.168 -> 4242, /158.69.122.144
+[2019-03-27 23:26:18] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
+[2019-03-27 23:26:18] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1553742539138] -> protected = true
+[2019-03-27 23:26:18] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
+[2019-03-27 23:26:19] [LOGIN] logged in RegisteredClient: Ithirahad (1) [Ithirahad]connected: true (/174.58.17.168:64914)
