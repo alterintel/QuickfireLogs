@@ -1,2 +1,12 @@
-[2019-05-01 09:18:21] STARMADE SERVER VERSION: 0.201.378; Build(20190420_091741)
-[2019-05-01 09:18:21] STARMADE SERVER STARTED: Wed May 01 09:18:21 EDT 2019
+[2019-05-27 15:25:09] STARMADE SERVER VERSION: 0.201.378; Build(20190420_091741)
+[2019-05-27 15:25:09] STARMADE SERVER STARTED: Mon May 27 15:25:09 EDT 2019
+[2019-05-27 15:26:32] [FACTION] Relationship Offer accepted: 21474836479999999 between Rel[a=-10000000, b=-9999999, rel=NEUTRAL]; Traders AND Outcasts; CODEA: 21474836479999999; CODEB: 21474834332516353
+[2019-05-27 15:26:32] [FACTION] Relationship Offer accepted: 21474834332516351 between Rel[a=-9999999, b=-9999998, rel=NEUTRAL]; Outcasts AND Scavengers; CODEA: 21474834332516351; CODEB: 21474832185032705
+[2019-05-27 15:26:32] [FACTION] Relationship Offer accepted: 21474832185032706 between Rel[a=-10000000, b=-9999998, rel=NEUTRAL]; Traders AND Scavengers; CODEA: 21474832185032706; CODEB: 21474836479999998
+[2019-05-27 15:28:18] [SERVERSOCKET] Incoming connection: 62756, /174.58.17.168 -> 4242, /158.69.122.144
+[2019-05-27 15:28:18] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
+[2019-05-27 15:28:18] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1558969219330] -> protected = true
+[2019-05-27 15:28:18] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
+[2019-05-27 15:28:19] [LOGIN] logged in RegisteredClient: Ithirahad (1) [Ithirahad]connected: true (/174.58.17.168:62756)
+[2019-05-27 15:28:28] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
+[2019-05-27 15:28:30] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
