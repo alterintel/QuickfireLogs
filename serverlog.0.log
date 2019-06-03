@@ -1,12 +1,114 @@
-[2019-05-27 15:25:09] STARMADE SERVER VERSION: 0.201.378; Build(20190420_091741)
-[2019-05-27 15:25:09] STARMADE SERVER STARTED: Mon May 27 15:25:09 EDT 2019
-[2019-05-27 15:26:32] [FACTION] Relationship Offer accepted: 21474836479999999 between Rel[a=-10000000, b=-9999999, rel=NEUTRAL]; Traders AND Outcasts; CODEA: 21474836479999999; CODEB: 21474834332516353
-[2019-05-27 15:26:32] [FACTION] Relationship Offer accepted: 21474834332516351 between Rel[a=-9999999, b=-9999998, rel=NEUTRAL]; Outcasts AND Scavengers; CODEA: 21474834332516351; CODEB: 21474832185032705
-[2019-05-27 15:26:32] [FACTION] Relationship Offer accepted: 21474832185032706 between Rel[a=-10000000, b=-9999998, rel=NEUTRAL]; Traders AND Scavengers; CODEA: 21474832185032706; CODEB: 21474836479999998
-[2019-05-27 15:28:18] [SERVERSOCKET] Incoming connection: 62756, /174.58.17.168 -> 4242, /158.69.122.144
-[2019-05-27 15:28:18] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
-[2019-05-27 15:28:18] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1558969219330] -> protected = true
-[2019-05-27 15:28:18] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
-[2019-05-27 15:28:19] [LOGIN] logged in RegisteredClient: Ithirahad (1) [Ithirahad]connected: true (/174.58.17.168:62756)
-[2019-05-27 15:28:28] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
-[2019-05-27 15:28:30] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-06-02 19:36:15] STARMADE SERVER VERSION: 0.201.378; Build(20190420_091741)
+[2019-06-02 19:36:15] STARMADE SERVER STARTED: Sun Jun 02 19:36:15 EDT 2019
+[2019-06-02 19:36:26] [SERVERSOCKET] Incoming connection: 54676, /174.58.17.168 -> 4242, /158.69.122.144
+[2019-06-02 19:36:27] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
+[2019-06-02 19:36:28] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1559488496891] -> protected = true
+[2019-06-02 19:36:28] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
+[2019-06-02 19:36:29] [LOGIN] logged in RegisteredClient: Ithirahad (1) [Ithirahad]connected: true (/174.58.17.168:54676)
+[2019-06-02 19:36:35] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
+[2019-06-02 19:36:38] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-06-02 19:37:05] [ADMINCOMMAND] Ithirahad used: 'CHANGE_SECTOR' with args [28, -14, 0]
+[2019-06-02 19:37:10] [ADMINCOMMAND] Ithirahad used: 'REPAIR_SECTOR' with args [28, -14, 10]
+[2019-06-02 19:37:23] [ADMINCOMMAND] Ithirahad used: 'CHANGE_SECTOR' with args [28, -14, 10]
+[2019-06-02 19:37:32] [FACTION] Relationship Offer accepted: 21474832185032705 between Rel[a=-9999999, b=-9999998, rel=NEUTRAL]; Outcasts AND Scavengers; CODEA: 21474832185032705; CODEB: 21474834332516351
+[2019-06-02 19:37:32] [FACTION] Relationship Offer accepted: 21474836479999998 between Rel[a=-10000000, b=-9999998, rel=NEUTRAL]; Traders AND Scavengers; CODEA: 21474836479999998; CODEB: 21474832185032706
+[2019-06-02 19:37:32] [FACTION] Relationship Offer accepted: 21474834332516353 between Rel[a=-10000000, b=-9999999, rel=NEUTRAL]; Traders AND Outcasts; CODEA: 21474834332516353; CODEB: 21474836479999999
+[2019-06-02 19:38:13] [SPAWN] Ithirahad spawned new ship: "AFK"
+[2019-06-02 19:39:05] [SERVERSOCKET] Incoming connection: 59122, /72.187.207.247 -> 4242, /158.69.122.144
+[2019-06-02 19:39:05] [AUTH] authenticating Benevolent27; useAuth: true; requireAuth: true
+[2019-06-02 19:39:05] [AUTH] Protection status of Benevolent27 is ProtectedUplinkName [username=Benevolent27, timeProtected=1559509980324] -> protected = true
+[2019-06-02 19:39:05] [AUTH] PROTECTING USER benevolent27 under uplink id Benevolent27
+[2019-06-02 19:39:05] [LOGIN] logged in RegisteredClient: Benevolent27 (2) [Benevolent27]connected: true (/72.187.207.247:59122)
+[2019-06-02 19:39:08] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Benevolent27,  Welcome to The QuickFire Initiative! ]
+[2019-06-02 19:39:10] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Benevolent27,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-06-02 19:39:22] [DISCONNECT] Client 'RegisteredClient: Benevolent27 (2) [Benevolent27]connected: true' IP(/72.187.207.247:59122) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 1
+[2019-06-02 19:39:22] [LOGOUT] logging out client ID RegisteredClient: Benevolent27 (2) [Benevolent27]connected: true
+[2019-06-02 19:39:46] [SERVERSOCKET] Incoming connection: 59165, /72.187.207.247 -> 4242, /158.69.122.144
+[2019-06-02 19:39:46] [AUTH] authenticating Benevolent27; useAuth: true; requireAuth: true
+[2019-06-02 19:39:46] [AUTH] Protection status of Benevolent27 is ProtectedUplinkName [username=Benevolent27, timeProtected=1559518745681] -> protected = true
+[2019-06-02 19:39:46] [AUTH] PROTECTING USER benevolent27 under uplink id Benevolent27
+[2019-06-02 19:39:46] [LOGIN] logged in RegisteredClient: Benevolent27 (3) [Benevolent27]connected: true (/72.187.207.247:59165)
+[2019-06-02 19:40:04] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Benevolent27,  Welcome to The QuickFire Initiative! ]
+[2019-06-02 19:50:28] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Benevolent27,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-06-02 19:52:46] [RENAME] Ithirahad changed object name: "AFK" to "No Longer AFK"
+[2019-06-02 19:54:23] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: This command is used to show the blueprints you own and then spawn them into your current sector. ]
+[2019-06-02 19:54:24] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  Usage: ]
+[2019-06-02 19:54:24] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,   - !blueprint list ]
+[2019-06-02 19:54:25] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,   - !blueprint load [number] (name) ]
+[2019-06-02 19:54:25] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,   - !blueprint load_as_faction [number] (name) ]
+[2019-06-02 19:54:26] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,    ]
+[2019-06-02 19:54:26] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  Note:  If no name is specified, the name of the blueprint is used. ]
+[2019-06-02 19:54:44] [SERVERSOCKET] Incoming connection: 57228, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-06-02 19:54:44] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:57228) used: 'LIST_BLUEPRINTS_BY_OWNER' with args [Ithirahad]
+[2019-06-02 19:54:44] [DISCONNECT] Client 'null' IP(/127.0.0.1:57228) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 3
+[2019-06-02 19:54:44] [SERVERSOCKET] Incoming connection: 57230, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-06-02 19:54:44] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:57230) used: 'PLAYER_INFO' with args [Ithirahad]
+[2019-06-02 19:54:44] [DISCONNECT] Client 'null' IP(/127.0.0.1:57230) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 4
+[2019-06-02 19:54:44] [SERVERSOCKET] Incoming connection: 57232, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-06-02 19:54:44] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:57232) used: 'PLAYER_INFO' with args [Ithirahad]
+[2019-06-02 19:54:44] [DISCONNECT] Client 'null' IP(/127.0.0.1:57232) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 5
+[2019-06-02 19:54:45] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Spawning in ship to your current sector (28 -14 10) from blueprint: Kelith-class Corvette v0-1b ]
+[2019-06-02 19:54:45] [SERVERSOCKET] Incoming connection: 57234, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-06-02 19:54:45] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:57234) used: 'SPAWN_ENTITY' with args [Kelith-class Corvette v0-1b, Factioned Entity, 28, -14, 10, 10005, true]
+[2019-06-02 19:54:45] [BLUEPRINT][LOAD] <admin> loaded Kelith-class Corvette v0-1b as "Factioned Entity" in (28, -14, 10) as faction 10005
+[2019-06-02 19:54:45] [DISCONNECT] Client 'null' IP(/127.0.0.1:57234) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 6
+[2019-06-02 19:54:53] [ADMINCOMMAND] Ithirahad used: 'DESTROY_ENTITY_DOCK' with args []
+[2019-06-02 19:54:53] [ADMIN COMMAND] destroying entity: Ship[Factioned Entity](535)
+[2019-06-02 19:54:55] [ADMINCOMMAND] Ithirahad used: 'DESTROY_ENTITY_DOCK' with args []
+[2019-06-02 19:54:55] [ADMIN COMMAND] destroying entity: Ship[Testing Corvette In Need Of Refit](38)
+[2019-06-02 19:55:02] [ADMINCOMMAND] Ithirahad used: 'DESTROY_ENTITY_DOCK' with args []
+[2019-06-02 19:55:02] [ADMIN COMMAND] destroying entity: Ship[Multi Word Name - Here Goes](50)
+[2019-06-02 20:03:11] [SERVERSOCKET] Incoming connection: 58691, /91.42.51.144 -> 4242, /158.69.122.144
+[2019-06-02 20:03:11] [AUTH] authenticating SchnellBier; useAuth: true; requireAuth: true
+[2019-06-02 20:03:12] [AUTH] Protection status of SchnellBier is ProtectedUplinkName [username=SchnellBier, timeProtected=1559476246360] -> protected = true
+[2019-06-02 20:03:12] [AUTH] PROTECTING USER schnellbier under uplink id SchnellBier
+[2019-06-02 20:03:12] [LOGIN] logged in RegisteredClient: SchnellBier (4) [SchnellBier]connected: true (/91.42.51.144:58691)
+[2019-06-02 20:03:48] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, SchnellBier,  Welcome to The QuickFire Initiative! ]
+[2019-06-02 20:03:55] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, SchnellBier,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-06-02 20:05:57] [SERVERSOCKET] Incoming connection: 57238, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-06-02 20:05:57] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:57238) used: 'LIST_BLUEPRINTS_BY_OWNER' with args [Benevolent27]
+[2019-06-02 20:05:57] [DISCONNECT] Client 'null' IP(/127.0.0.1:57238) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 8
+[2019-06-02 20:05:57] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Benevolent27,  [QuickBot]: Here are your blueprints: ]
+[2019-06-02 20:05:58] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Benevolent27,  [-1-]: testBP with spaces ]
+[2019-06-02 20:05:58] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Benevolent27,  [-2-]: testBP ]
+[2019-06-02 20:05:59] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Benevolent27,  [-3-]: test BP with  multiple  spaces ]
+[2019-06-02 20:05:59] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Benevolent27,  [-4-]: testBP2 ]
+[2019-06-02 20:06:00] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Benevolent27,  [-5-]: testBP-factioned ]
+[2019-06-02 20:06:00] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Benevolent27,    ]
+[2019-06-02 20:06:01] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Benevolent27,  [QuickBot]: To spawn in a blueprint, type: !blueprint load/load_as_faction [number] (name) ]
+[2019-06-02 20:06:07] [SERVERSOCKET] Incoming connection: 57240, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-06-02 20:06:07] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:57240) used: 'LIST_BLUEPRINTS_BY_OWNER' with args [Benevolent27]
+[2019-06-02 20:06:07] [DISCONNECT] Client 'null' IP(/127.0.0.1:57240) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 9
+[2019-06-02 20:06:07] [SERVERSOCKET] Incoming connection: 57242, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-06-02 20:06:07] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:57242) used: 'PLAYER_INFO' with args [Benevolent27]
+[2019-06-02 20:06:07] [DISCONNECT] Client 'null' IP(/127.0.0.1:57242) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 10
+[2019-06-02 20:06:07] [SERVERSOCKET] Incoming connection: 57244, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-06-02 20:06:08] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:57244) used: 'PLAYER_INFO' with args [Benevolent27]
+[2019-06-02 20:06:08] [DISCONNECT] Client 'null' IP(/127.0.0.1:57244) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 11
+[2019-06-02 20:06:08] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Benevolent27,  [QuickBot]: Spawning in ship to your current sector (28 -14 10) from blueprint: testBP-factioned ]
+[2019-06-02 20:06:09] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Benevolent27,  [QuickBot]: No ship name specified, using blueprint name: testBP-factioned ]
+[2019-06-02 20:06:09] [SERVERSOCKET] Incoming connection: 57246, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-06-02 20:06:09] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:57246) used: 'SPAWN_ENTITY' with args [testBP-factioned, testBP-factioned, 28, -14, 10, 10007, true]
+[2019-06-02 20:06:09] [BLUEPRINT][LOAD] <admin> loaded testBP-factioned as "testBP-factionedd1" in (28, -14, 10) as faction 10007
+[2019-06-02 20:06:09] [DISCONNECT] Client 'null' IP(/127.0.0.1:57246) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 12
+[2019-06-02 20:06:21] [ADMINCOMMAND] Benevolent27 used: 'DESTROY_ENTITY' with args []
+[2019-06-02 20:06:21] [ADMIN COMMAND] destroying entity: Ship[testBP-factionedd1](866)
+[2019-06-02 20:06:28] [ADMINCOMMAND] Benevolent27 used: 'DESTROY_ENTITY' with args []
+[2019-06-02 20:06:28] [ADMIN COMMAND] destroying entity: Ship[testBP-factionedd0](52)
+[2019-06-02 20:06:38] [SERVERSOCKET] Incoming connection: 57248, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-06-02 20:06:38] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:57248) used: 'LIST_BLUEPRINTS_BY_OWNER' with args [Benevolent27]
+[2019-06-02 20:06:38] [DISCONNECT] Client 'null' IP(/127.0.0.1:57248) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 13
+[2019-06-02 20:06:38] [SERVERSOCKET] Incoming connection: 57250, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-06-02 20:06:38] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:57250) used: 'PLAYER_INFO' with args [Benevolent27]
+[2019-06-02 20:06:38] [DISCONNECT] Client 'null' IP(/127.0.0.1:57250) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 14
+[2019-06-02 20:06:38] [SERVERSOCKET] Incoming connection: 57252, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-06-02 20:06:38] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:57252) used: 'PLAYER_INFO' with args [Benevolent27]
+[2019-06-02 20:06:38] [DISCONNECT] Client 'null' IP(/127.0.0.1:57252) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 15
+[2019-06-02 20:06:39] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Benevolent27,  [QuickBot]: Spawning in ship to your current sector (28 -14 10) from blueprint: testBP-factioned ]
+[2019-06-02 20:06:39] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Benevolent27,  [QuickBot]: No ship name specified, using blueprint name: testBP-factioned ]
+[2019-06-02 20:06:39] [SERVERSOCKET] Incoming connection: 57254, /127.0.0.1 -> 4242, /127.0.0.1
+[2019-06-02 20:06:39] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:57254) used: 'SPAWN_ENTITY' with args [testBP-factioned, testBP-factioned, 28, -14, 10, 10007, true]
+[2019-06-02 20:06:39] [BLUEPRINT][LOAD] <admin> loaded testBP-factioned as "testBP-factionedd0" in (28, -14, 10) as faction 10007
+[2019-06-02 20:06:39] [DISCONNECT] Client 'null' IP(/127.0.0.1:57254) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 16
+[2019-06-02 20:06:48] [ADMINCOMMAND] Benevolent27 used: 'DESTROY_ENTITY_DOCK' with args []
+[2019-06-02 20:06:48] [ADMIN COMMAND] destroying entity: Ship[testBP-factionedd0](867)
