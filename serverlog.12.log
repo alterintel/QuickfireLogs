@@ -1,36 +1,33 @@
-[2019-05-31 14:12:40] STARMADE SERVER VERSION: 0.201.378; Build(20190420_091741)
-[2019-05-31 14:12:40] STARMADE SERVER STARTED: Fri May 31 14:12:40 EDT 2019
-[2019-05-31 14:14:42] [SERVERSOCKET] Incoming connection: 62628, /174.58.17.168 -> 4242, /158.69.122.144
-[2019-05-31 14:14:43] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
-[2019-05-31 14:14:45] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1559323529581] -> protected = true
-[2019-05-31 14:14:45] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
-[2019-05-31 14:14:45] [LOGIN] logged in RegisteredClient: Ithirahad (1) [Ithirahad]connected: true (/174.58.17.168:62628)
-[2019-05-31 14:14:48] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
-[2019-05-31 14:21:27] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
-[2019-05-31 14:21:53] [ADMINCOMMAND] Ithirahad used: 'LOAD_AS_FACTION' with args [turreted missile tester, turreted missile tester_1559326908383, 10005]
-[2019-05-31 14:21:53] [BLUEPRINT][LOAD] <admin> loaded turreted missile tester as "turreted missile tester_1559326908383" in (6, 28, 12) as faction 10005
-[2019-05-31 14:22:16] [ADMINCOMMAND] Ithirahad used: 'FACTION_SET_ENTITY' with args [-1]
-[2019-05-31 14:22:56] [ADMINCOMMAND] Ithirahad used: 'CHANGE_SECTOR_SELECTED' with args [30, 60, 101]
-[2019-05-31 14:23:02] [ADMINCOMMAND] Ithirahad used: 'CHANGE_SECTOR' with args [30, 60, 101]
-[2019-05-31 14:26:39] [ADMINCOMMAND] Ithirahad used: 'LOAD_AS_FACTION' with args [tower target, tower target_1559327197136, 10005]
-[2019-05-31 14:26:39] [BLUEPRINT][LOAD] <admin> loaded tower target as "tower target_1559327197136" in (30, 60, 100) as faction 10005
-[2019-05-31 14:27:01] [DISCONNECT] Client 'RegisteredClient: Ithirahad (1) [Ithirahad]connected: true' IP(/174.58.17.168:62628) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 0
-[2019-05-31 14:27:01] [LOGOUT] logging out client ID RegisteredClient: Ithirahad (1) [Ithirahad]connected: true
-[2019-05-31 14:32:29] [ADMINCOMMAND] #CONSOLE# used: 'START_COUNTDOWN' with args [300, Shutting down server..]
-[2019-05-31 14:32:30] [ADMINCOMMAND] #CONSOLE# used: 'FORCE_SAVE' with args []
-[2019-05-31 14:37:30] [ADMINCOMMAND] #CONSOLE# used: 'SHUTDOWN' with args [1]
-[2019-05-31 14:37:31] [SHUTDOWN] Shutting down server
-[2019-05-31 14:37:31] [SHUTDOWN] shutting down element collection thread
-[2019-05-31 14:37:31] [SHUTDOWN] shutting down pathfinding threads
-[2019-05-31 14:37:31] [SHUTDOWN] shutting down universe
-[2019-05-31 14:37:31] [SHUTDOWN] shutting down segment request thread
-[2019-05-31 14:37:31] [SHUTDOWN] shutting down simulation
-[2019-05-31 14:37:31] [SHUTDOWN] shutting down active checker
-[2019-05-31 14:37:31] [SHUTDOWN] shutting sysin listener
-[2019-05-31 14:37:31] [SHUTDOWN] shutting down mob thread
-[2019-05-31 14:37:31] [SHUTDOWN] shutting down game map provider
-[2019-05-31 14:37:31] [SHUTDOWN] server stop listening
-[2019-05-31 14:37:31] [SHUTDOWN] disconnecting all clients
-[2019-05-31 14:37:31] [SHUTDOWN] writing current universe STARTED
-[2019-05-31 14:37:38] [SHUTDOWN] database closed successfully
-[2019-05-31 14:37:38] [SHUTDOWN] writing current universe FINISHED
+[2019-08-16 12:06:35] STARMADE SERVER VERSION: 0.201.378; Build(20190420_091741)
+[2019-08-16 12:06:35] STARMADE SERVER STARTED: Fri Aug 16 12:06:35 EDT 2019
+[2019-08-16 12:08:04] [SERVERSOCKET] Incoming connection: 54169, /81.170.227.4 -> 4242, /158.69.122.144
+[2019-08-16 12:08:04] [DISCONNECT] Client 'Info-Pinger (server-lists)' IP(/81.170.227.4:54169) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 0
+[2019-08-16 12:08:07] [SERVERSOCKET] Incoming connection: 54181, /81.170.227.4 -> 4242, /158.69.122.144
+[2019-08-16 12:08:08] [AUTH] authenticating Frasse; useAuth: true; requireAuth: true
+[2019-08-16 12:08:08] [AUTH] Protection status of Frasse is ProtectedUplinkName [username=aceface, timeProtected=1565969556046] -> protected = true
+[2019-08-16 12:08:08] [AUTH] PROTECTING USER frasse under uplink id aceface
+[2019-08-16 12:08:09] [LOGIN] logged in RegisteredClient: Frasse (1) [aceface]connected: true (/81.170.227.4:54181)
+[2019-08-16 12:08:18] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Frasse,  Welcome to The QuickFire Initiative! ]
+[2019-08-16 12:08:29] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Frasse,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-08-16 12:08:29] [FACTION] Relationship Offer accepted: 21474832185032705 between Rel[a=-9999999, b=-9999998, rel=NEUTRAL]; Outcasts AND Scavengers; CODEA: 21474832185032705; CODEB: 21474834332516351
+[2019-08-16 12:08:29] [FACTION] Relationship Offer accepted: 21474836479999998 between Rel[a=-10000000, b=-9999998, rel=NEUTRAL]; Traders AND Scavengers; CODEA: 21474836479999998; CODEB: 21474832185032706
+[2019-08-16 12:08:29] [FACTION] Relationship Offer accepted: 21474834332516353 between Rel[a=-10000000, b=-9999999, rel=NEUTRAL]; Traders AND Outcasts; CODEA: 21474834332516353; CODEB: 21474836479999999
+[2019-08-16 12:14:07] [ADMINCOMMAND] #CONSOLE# used: 'START_COUNTDOWN' with args [20, WTF happened]
+[2019-08-16 12:14:07] [ADMINCOMMAND] #CONSOLE# used: 'FORCE_SAVE' with args []
+[2019-08-16 12:14:28] [ADMINCOMMAND] #CONSOLE# used: 'SHUTDOWN' with args [1]
+[2019-08-16 12:14:29] [SHUTDOWN] Shutting down server
+[2019-08-16 12:14:29] [SHUTDOWN] shutting down element collection thread
+[2019-08-16 12:14:29] [SHUTDOWN] shutting down pathfinding threads
+[2019-08-16 12:14:29] [SHUTDOWN] shutting down universe
+[2019-08-16 12:14:29] [SHUTDOWN] shutting down segment request thread
+[2019-08-16 12:14:29] [SHUTDOWN] shutting down simulation
+[2019-08-16 12:14:29] [SHUTDOWN] shutting down active checker
+[2019-08-16 12:14:29] [SHUTDOWN] shutting sysin listener
+[2019-08-16 12:14:29] [SHUTDOWN] shutting down mob thread
+[2019-08-16 12:14:29] [SHUTDOWN] shutting down game map provider
+[2019-08-16 12:14:29] [SHUTDOWN] server stop listening
+[2019-08-16 12:14:29] [SHUTDOWN] disconnecting all clients
+[2019-08-16 12:14:29] [SHUTDOWN] writing current universe STARTED
+[2019-08-16 12:14:29] [DISCONNECT] Client 'RegisteredClient: Frasse (1) [aceface]connected: true' IP(/81.170.227.4:54181) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 1
+[2019-08-16 12:14:41] [SHUTDOWN] database closed successfully
+[2019-08-16 12:14:41] [SHUTDOWN] writing current universe FINISHED

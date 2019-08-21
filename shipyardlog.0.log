@@ -1,1 +1,72 @@
-[2019-06-02 19:36:12] ------------------------------- STARTING NEW LOG ----------------------------
+[2019-08-16 12:14:46] ------------------------------- STARTING NEW LOG ----------------------------
+[2019-08-16 14:35:08] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)] from tag: current name: currentName: D_1565870663588; designToLoad: -1
+[2019-08-16 14:35:08] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipColMan((1, 18, -2)) from tag loaded design: 103324: Ship Design (D_1565870663588)
+(right click to view)
+[2019-08-16 14:35:08] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipColMan((1, 18, -2)) design successfully loaded ENTITY_SHIP_D_1565870663588; Ship[D_1565870663588](2677) -> Ship[D_1565870663588](2677)
+[2019-08-16 14:35:08] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipColMan((1, 18, -2))  wait for exists UID: ENTITY_SHIP_D_1565870663588
+[2019-08-16 14:35:08] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder no longer valid
+[2019-08-16 14:35:08] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)] from tag: current name: currentName: null; designToLoad: -1
+[2019-08-16 14:35:08] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipColMan((26, 29, -2)) from tag loaded design: -1: null
+[2019-08-16 14:35:08] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipColMan((26, 29, -2)) WaitingForShipyardOrder no longer valid
+[2019-08-16 14:35:12] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipYardUnit ShipyardUnit1367628888[(-98, -58, -455)/(-97, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@51845c58) Ok shipyard shape
+[2019-08-16 14:35:12] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipYardUnit ShipyardUnit1598269464[(52, -58, -455)/(53, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@5f43a818) Ok shipyard shape
+[2019-08-16 14:35:12] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipYardUnit ShipyardUnit1534867240[(152, -58, -455)/(153, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@5b7c3728) Ok shipyard shape
+[2019-08-16 14:35:12] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipYardUnit ShipyardUnit511615523[(2, -58, -455)/(3, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@1e7ea223) Ok shipyard shape
+[2019-08-16 14:35:12] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipYardUnit ShipyardUnit1835748136[(202, -58, -455)/(203, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@6d6b4b28) Ok shipyard shape
+[2019-08-16 14:35:12] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipYardUnit ShipyardUnit799686133[(-198, -58, -455)/(-197, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@2faa3df5) Ok shipyard shape
+[2019-08-16 14:35:12] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipYardUnit ShipyardUnit357927519[(102, -58, -455)/(103, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@15558a5f) Ok shipyard shape
+[2019-08-16 14:35:12] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipYardUnit ShipyardUnit2119261548[(-148, -58, -455)/(-147, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@7e515d6c) Ok shipyard shape
+[2019-08-16 14:35:12] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipYardUnit ShipyardUnit1238657925[(-48, -58, -455)/(-47, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@49d46b85) Ok shipyard shape
+[2019-08-16 14:35:12] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder is now valid again
+[2019-08-16 14:35:12] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-16 14:35:12] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(2508)]; ShipColMan((1, 18, -2)) updating now in state: WaitingForShipyardOrder
+[2019-08-16 19:11:29] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((-13, 17, 16)) WaitingForShipyardOrder no longer valid
+[2019-08-16 19:11:29] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((16, 94, 10)) WaitingForShipyardOrder no longer valid
+[2019-08-16 19:11:29] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((45, 17, 16)) WaitingForShipyardOrder no longer valid
+[2019-08-16 19:11:29] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit1232275090[(58, -50, -16)/(93, -25, -15)](93; 93; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@49730692) Ok shipyard shape
+[2019-08-16 19:11:29] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit269109380[(-60, -50, -16)/(-25, -25, -15)](93; 93; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@100a4884) Ok shipyard shape
+[2019-08-16 19:11:29] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit1203040716[(58, -50, 48)/(93, -25, 49)](93; 93; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@47b4f1cc) Ok shipyard shape
+[2019-08-16 19:11:29] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit1200129588[(-60, -50, 16)/(-25, -25, 17)](93; 93; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@47888634) Ok shipyard shape
+[2019-08-16 19:11:29] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit2055245478[(-60, -50, 48)/(-25, -25, 49)](93; 93; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@7a808ea6) Ok shipyard shape
+[2019-08-16 19:11:29] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit1133211106[(58, -50, 16)/(93, -25, 17)](93; 93; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@438b6de2) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((-13, 17, 16)) WaitingForShipyardOrder is now valid again
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((-13, 17, 16)) WaitingForShipyardOrder: is now powered
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((-13, 17, 16)) updating now in state: WaitingForShipyardOrder
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)] SY
+->[ShipyardProgram->WaitingForShipyardOrder]
+ WaitingForShipyardOrder: ON_ENTER_STATE
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((-13, 17, 16)) WaitingForShipyardOrder sending current state to client: WaitingForShipyardOrder
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((45, 17, 16)) WaitingForShipyardOrder is now valid again
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((45, 17, 16)) WaitingForShipyardOrder: is now powered
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((45, 17, 16)) updating now in state: WaitingForShipyardOrder
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)] SY
+->[ShipyardProgram->WaitingForShipyardOrder]
+ WaitingForShipyardOrder: ON_ENTER_STATE
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((45, 17, 16)) WaitingForShipyardOrder sending current state to client: WaitingForShipyardOrder
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit196395272[(-48, 105, -141)/(81, 221, -140)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@bb4c108) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit1320574490[(-48, 105, 39)/(81, 221, 40)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@4eb65e1a) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit718090974[(-48, 105, 67)/(81, 221, 68)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@2acd32de) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit2134004218[(-48, 105, -9)/(81, 221, -8)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@7f3251fa) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit1386439573[(-48, 105, -167)/(81, 221, -166)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@52a36395) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit781820245[(-48, 105, -245)/(81, 221, -244)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@2e99a155) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit1828797850[(-48, 105, 249)/(81, 221, 250)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@6d013d9a) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit5315649[(-48, 105, 223)/(81, 221, 224)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@511c41) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit1235707925[(-48, 105, 119)/(81, 221, 120)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@49a76815) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit718797693[(-48, 105, -115)/(81, 221, -114)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@2ad7fb7d) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit1323232848[(-48, 105, -193)/(81, 221, -192)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@4edeee50) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit1189429470[(-48, 105, 93)/(81, 221, 94)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@46e540de) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit879787991[(-48, 105, -89)/(81, 221, -88)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@34707fd7) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit560559671[(-48, 105, -219)/(81, 221, -218)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@21697637) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit410820644[(-48, 105, 275)/(81, 221, 276)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@187ca024) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit1953755205[(-48, 105, -63)/(81, 221, -62)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@7473f045) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit1137354715[(-48, 105, 171)/(81, 221, 172)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@43caa7db) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit704162139[(-48, 105, 197)/(81, 221, 198)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@29f8a95b) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit1417171392[(-48, 105, 145)/(81, 221, 146)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@547851c0) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipYardUnit ShipyardUnit1071801042[(-48, 105, -37)/(81, 221, -36)](359; 359; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@3fe262d2) Ok shipyard shape
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((16, 94, 10)) WaitingForShipyardOrder is now valid again
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((16, 94, 10)) WaitingForShipyardOrder: is now powered
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((16, 94, 10)) updating now in state: WaitingForShipyardOrder
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)] SY
+->[ShipyardProgram->WaitingForShipyardOrder]
+ WaitingForShipyardOrder: ON_ENTER_STATE
+[2019-08-16 19:11:30] SpaceStation[ENTITY_SPACESTATION_Malte 25-05-17_1565997081389(5880)]; ShipColMan((16, 94, 10)) WaitingForShipyardOrder sending current state to client: WaitingForShipyardOrder

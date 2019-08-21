@@ -1,29 +1,27 @@
-[2019-05-31 10:21:15] STARMADE SERVER VERSION: 0.201.378; Build(20190420_091741)
-[2019-05-31 10:21:15] STARMADE SERVER STARTED: Fri May 31 10:21:15 EDT 2019
-[2019-05-31 10:21:59] [SERVERSOCKET] Incoming connection: 59061, /174.58.17.168 -> 4242, /158.69.122.144
-[2019-05-31 10:21:59] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
-[2019-05-31 10:21:59] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1559311885641] -> protected = true
-[2019-05-31 10:21:59] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
-[2019-05-31 10:22:00] [LOGIN] logged in RegisteredClient: Ithirahad (1) [Ithirahad]connected: true (/174.58.17.168:59061)
-[2019-05-31 10:22:26] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
-[2019-05-31 10:22:33] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
-[2019-05-31 10:23:13] [ADMINCOMMAND] #CONSOLE# used: 'START_COUNTDOWN' with args [10, Shutting down server..]
-[2019-05-31 10:23:13] [ADMINCOMMAND] #CONSOLE# used: 'FORCE_SAVE' with args []
-[2019-05-31 10:23:20] [DISCONNECT] Client 'RegisteredClient: Ithirahad (1) [Ithirahad]connected: true' IP(/174.58.17.168:59061) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 0
-[2019-05-31 10:23:20] [LOGOUT] logging out client ID RegisteredClient: Ithirahad (1) [Ithirahad]connected: true
-[2019-05-31 10:23:23] [ADMINCOMMAND] #CONSOLE# used: 'SHUTDOWN' with args [1]
-[2019-05-31 10:23:25] [SHUTDOWN] Shutting down server
-[2019-05-31 10:23:25] [SHUTDOWN] shutting down element collection thread
-[2019-05-31 10:23:25] [SHUTDOWN] shutting down pathfinding threads
-[2019-05-31 10:23:25] [SHUTDOWN] shutting down universe
-[2019-05-31 10:23:25] [SHUTDOWN] shutting down segment request thread
-[2019-05-31 10:23:25] [SHUTDOWN] shutting down simulation
-[2019-05-31 10:23:25] [SHUTDOWN] shutting down active checker
-[2019-05-31 10:23:25] [SHUTDOWN] shutting sysin listener
-[2019-05-31 10:23:25] [SHUTDOWN] shutting down mob thread
-[2019-05-31 10:23:25] [SHUTDOWN] shutting down game map provider
-[2019-05-31 10:23:25] [SHUTDOWN] server stop listening
-[2019-05-31 10:23:25] [SHUTDOWN] disconnecting all clients
-[2019-05-31 10:23:25] [SHUTDOWN] writing current universe STARTED
-[2019-05-31 10:23:32] [SHUTDOWN] database closed successfully
-[2019-05-31 10:23:32] [SHUTDOWN] writing current universe FINISHED
+[2019-08-15 23:33:06] STARMADE SERVER VERSION: 0.201.378; Build(20190420_091741)
+[2019-08-15 23:33:06] STARMADE SERVER STARTED: Thu Aug 15 23:33:06 EDT 2019
+[2019-08-15 23:33:28] [SERVERSOCKET] Incoming connection: 53523, /73.27.218.112 -> 4242, /158.69.122.144
+[2019-08-15 23:33:29] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
+[2019-08-15 23:33:29] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1565924283300] -> protected = true
+[2019-08-15 23:33:29] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
+[2019-08-15 23:33:30] [LOGIN] logged in RegisteredClient: Ithirahad (1) [Ithirahad]connected: true (/73.27.218.112:53523)
+[2019-08-15 23:33:56] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
+[2019-08-15 23:35:03] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-08-15 23:38:35] [ADMINCOMMAND] #CONSOLE# used: 'START_COUNTDOWN' with args [0, Shutting down server..]
+[2019-08-15 23:38:36] [ADMINCOMMAND] #CONSOLE# used: 'SHUTDOWN' with args [1]
+[2019-08-15 23:38:37] [SHUTDOWN] Shutting down server
+[2019-08-15 23:38:37] [SHUTDOWN] shutting down element collection thread
+[2019-08-15 23:38:37] [SHUTDOWN] shutting down pathfinding threads
+[2019-08-15 23:38:37] [SHUTDOWN] shutting down universe
+[2019-08-15 23:38:37] [SHUTDOWN] shutting down segment request thread
+[2019-08-15 23:38:37] [SHUTDOWN] shutting down simulation
+[2019-08-15 23:38:37] [SHUTDOWN] shutting down active checker
+[2019-08-15 23:38:37] [SHUTDOWN] shutting sysin listener
+[2019-08-15 23:38:37] [SHUTDOWN] shutting down mob thread
+[2019-08-15 23:38:37] [SHUTDOWN] shutting down game map provider
+[2019-08-15 23:38:37] [SHUTDOWN] server stop listening
+[2019-08-15 23:38:37] [SHUTDOWN] disconnecting all clients
+[2019-08-15 23:38:37] [SHUTDOWN] writing current universe STARTED
+[2019-08-15 23:38:37] [DISCONNECT] Client 'RegisteredClient: Ithirahad (1) [Ithirahad]connected: true' IP(/73.27.218.112:53523) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 0
+[2019-08-15 23:38:47] [SHUTDOWN] database closed successfully
+[2019-08-15 23:38:47] [SHUTDOWN] writing current universe FINISHED

@@ -1,1 +1,102 @@
-[2019-05-31 10:10:55] ------------------------------- STARTING NEW LOG ----------------------------
+[2019-08-15 16:28:09] ------------------------------- STARTING NEW LOG ----------------------------
+[2019-08-15 16:42:53] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)] from tag: current name: currentName: D_1565870663588; designToLoad: -1
+[2019-08-15 16:42:53] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) from tag loaded design: 103324: Ship Design (D_1565870663588)
+(right click to view)
+[2019-08-15 16:42:53] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) design successfully loaded ENTITY_SHIP_D_1565870663588; Ship[D_1565870663588](746) -> Ship[D_1565870663588](746)
+[2019-08-15 16:42:53] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2))  wait for exists UID: ENTITY_SHIP_D_1565870663588
+[2019-08-15 16:42:53] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder no longer valid
+[2019-08-15 16:42:53] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)] from tag: current name: currentName: null; designToLoad: -1
+[2019-08-15 16:42:53] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((26, 29, -2)) from tag loaded design: -1: null
+[2019-08-15 16:42:53] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((26, 29, -2)) WaitingForShipyardOrder no longer valid
+[2019-08-15 16:42:58] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipYardUnit ShipyardUnit454008971[(-98, -58, -455)/(-97, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@1b0fa08b) Ok shipyard shape
+[2019-08-15 16:42:58] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipYardUnit ShipyardUnit365452698[(52, -58, -455)/(53, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@15c85d9a) Ok shipyard shape
+[2019-08-15 16:42:58] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipYardUnit ShipyardUnit301452283[(152, -58, -455)/(153, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@11f7cbfb) Ok shipyard shape
+[2019-08-15 16:42:58] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipYardUnit ShipyardUnit1425364897[(2, -58, -455)/(3, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@54f557a1) Ok shipyard shape
+[2019-08-15 16:42:58] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipYardUnit ShipyardUnit848870988[(202, -58, -455)/(203, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@3298be4c) Ok shipyard shape
+[2019-08-15 16:42:58] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipYardUnit ShipyardUnit1701511432[(-198, -58, -455)/(-197, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@656b0108) Ok shipyard shape
+[2019-08-15 16:42:58] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipYardUnit ShipyardUnit1257027149[(102, -58, -455)/(103, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@4aecb64d) Ok shipyard shape
+[2019-08-15 16:42:58] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipYardUnit ShipyardUnit886745326[(-148, -58, -455)/(-147, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@34daa8ee) Ok shipyard shape
+[2019-08-15 16:42:58] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipYardUnit ShipyardUnit1137122023[(-48, -58, -455)/(-47, 121, -155)](863; 863; org.schema.game.common.controller.elements.shipyard.ShipyardUnit@43c71ae7) Ok shipyard shape
+[2019-08-15 16:42:59] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder is now valid again
+[2019-08-15 16:42:59] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:42:59] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) updating now in state: WaitingForShipyardOrder
+[2019-08-15 16:43:01] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:01] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:01] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:01] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:01] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:01] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:02] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:02] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:02] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:02] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:02] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:02] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:02] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:02] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:02] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:02] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:02] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:02] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:03] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:03] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:03] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:03] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:03] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:03] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:03] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:03] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:03] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:03] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:03] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:03] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:04] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:04] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:04] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:04] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:04] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:04] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:04] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:04] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:04] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:04] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:04] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:04] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:04] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:04] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:05] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:05] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:05] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:05] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:05] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:05] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:05] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:05] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:05] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:05] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:05] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:05] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:06] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:06] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:06] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:06] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:06] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:06] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:06] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:06] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:06] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:06] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:06] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:06] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:07] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:07] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:07] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:07] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:07] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:07] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:07] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:07] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:07] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:07] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered
+[2019-08-15 16:43:08] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: no longer powered
+[2019-08-15 16:43:08] SpaceStation[ENTITY_SPACESTATION_Pandora-MKI-v5_1565687079559(582)]; ShipColMan((1, 18, -2)) WaitingForShipyardOrder: is now powered

@@ -1,96 +1,27 @@
-[2019-05-31 11:15:06] STARMADE SERVER VERSION: 0.201.378; Build(20190420_091741)
-[2019-05-31 11:15:06] STARMADE SERVER STARTED: Fri May 31 11:15:06 EDT 2019
-[2019-05-31 11:36:28] [SERVERSOCKET] Incoming connection: 52663, /87.155.243.181 -> 4242, /158.69.122.144
-[2019-05-31 11:36:29] [AUTH] authenticating SchnellBier; useAuth: true; requireAuth: true
-[2019-05-31 11:36:29] [AUTH] Protection status of SchnellBier is ProtectedUplinkName [username=SchnellBier, timeProtected=1559312424502] -> protected = true
-[2019-05-31 11:36:29] [AUTH] PROTECTING USER schnellbier under uplink id SchnellBier
-[2019-05-31 11:36:30] [LOGIN] logged in RegisteredClient: SchnellBier (1) [SchnellBier]connected: true (/87.155.243.181:52663)
-[2019-05-31 11:36:35] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, SchnellBier,  Welcome to The QuickFire Initiative! ]
-[2019-05-31 11:36:40] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, SchnellBier,  [QuickBot]: Welcome to The QuickFire Initiative. ]
-[2019-05-31 11:45:57] [SERVERSOCKET] Incoming connection: 60156, /174.58.17.168 -> 4242, /158.69.122.144
-[2019-05-31 11:45:57] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
-[2019-05-31 11:45:57] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1559314418331] -> protected = true
-[2019-05-31 11:45:57] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
-[2019-05-31 11:45:57] [LOGIN] logged in RegisteredClient: Ithirahad (2) [Ithirahad]connected: true (/174.58.17.168:60156)
-[2019-05-31 11:46:03] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
-[2019-05-31 11:46:06] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
-[2019-05-31 12:08:55] [DISCONNECT] Client 'RegisteredClient: Ithirahad (2) [Ithirahad]connected: true' IP(/174.58.17.168:60156) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 1
-[2019-05-31 12:08:55] [LOGOUT] logging out client ID RegisteredClient: Ithirahad (2) [Ithirahad]connected: true
-[2019-05-31 12:25:10] [SERVERSOCKET] Incoming connection: 61539, /174.58.17.168 -> 4242, /158.69.122.144
-[2019-05-31 12:25:10] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
-[2019-05-31 12:25:12] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1559317557354] -> protected = true
-[2019-05-31 12:25:12] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
-[2019-05-31 12:25:12] [LOGIN] logged in RegisteredClient: Ithirahad (3) [Ithirahad]connected: true (/174.58.17.168:61539)
-[2019-05-31 12:25:22] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
-[2019-05-31 12:28:53] [DISCONNECT] Client 'RegisteredClient: SchnellBier (1) [SchnellBier]connected: true' IP(/87.155.243.181:52663) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 0
-[2019-05-31 12:28:53] [LOGOUT] logging out client ID RegisteredClient: SchnellBier (1) [SchnellBier]connected: true
-[2019-05-31 12:34:24] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
-[2019-05-31 12:35:49] [ADMINCOMMAND] Ithirahad used: 'LOAD_AS_FACTION' with args [potatax, potatax_1559320546977, 10005]
-[2019-05-31 12:35:49] [BLUEPRINT][LOAD] <admin> loaded potatax as "potatax_1559320546977" in (23, -19, 21) as faction 10005
-[2019-05-31 12:36:22] [ADMINCOMMAND] Ithirahad used: 'SHIELD_REGEN' with args [false]
-[2019-05-31 12:36:25] [ADMINCOMMAND] Ithirahad used: 'SHIELD_REGEN' with args [false]
-[2019-05-31 12:36:29] [ADMINCOMMAND] Ithirahad used: 'SHIELD_REGEN' with args [false]
-[2019-05-31 12:36:32] [ADMINCOMMAND] Ithirahad used: 'SHIELD_REGEN' with args [true]
-[2019-05-31 12:36:39] [ADMINCOMMAND] Ithirahad used: 'SHIELD_DAMAGE' with args [-100000]
-[2019-05-31 12:36:44] [ADMINCOMMAND] Ithirahad used: 'SHIELD_DAMAGE' with args [-100000]
-[2019-05-31 12:36:47] [ADMINCOMMAND] Ithirahad used: 'SHIELD_DAMAGE' with args [-1000000]
-[2019-05-31 12:37:46] [ADMINCOMMAND] Ithirahad used: 'LOAD_AS_FACTION' with args [potaty, potaty_1559320663971, 10005]
-[2019-05-31 12:37:46] [BLUEPRINT][LOAD] <admin> loaded potaty as "potaty_1559320663971" in (23, -19, 21) as faction 10005
-[2019-05-31 12:38:43] [SERVERSOCKET] Incoming connection: 56416, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-05-31 12:38:43] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:56416) used: 'STATUS' with args []
-[2019-05-31 12:38:43] [DISCONNECT] Client 'null' IP(/127.0.0.1:56416) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 3
-[2019-05-31 12:38:43] [SERVERSOCKET] Incoming connection: 56418, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-05-31 12:38:43] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:56418) used: 'STATUS' with args []
-[2019-05-31 12:38:43] [DISCONNECT] Client 'null' IP(/127.0.0.1:56418) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 4
-[2019-05-31 12:38:43] [SERVERSOCKET] Incoming connection: 56420, /127.0.0.1 -> 4242, /127.0.0.1
-[2019-05-31 12:38:43] [ADMINCOMMAND] #REMOTE##unknownName# (/127.0.0.1:56420) used: 'PLAYER_LIST' with args []
-[2019-05-31 12:38:43] [DISCONNECT] Client 'null' IP(/127.0.0.1:56420) HAS BEEN DISCONNECTED . PROBE: true; ProcessorID: 5
-[2019-05-31 12:38:45] [ADMINCOMMAND] Ithirahad used: 'LOAD_AS_FACTION' with args [potatoctrl, potatoctrl_1559320721860, 10005]
-[2019-05-31 12:38:45] [BLUEPRINT][LOAD] <admin> loaded potatoctrl as "potatoctrl_1559320721860" in (23, -19, 21) as faction 10005
-[2019-05-31 12:39:36] [SERVERSOCKET] Incoming connection: 53206, /93.23.13.122 -> 4242, /158.69.122.144
-[2019-05-31 12:39:36] [AUTH] authenticating Scypio; useAuth: true; requireAuth: true
-[2019-05-31 12:39:37] [AUTH] Protection status of Scypio is ProtectedUplinkName [username=Scypio, timeProtected=1559248695352] -> protected = true
-[2019-05-31 12:39:37] [AUTH] PROTECTING USER scypio under uplink id Scypio
-[2019-05-31 12:39:37] [LOGIN] logged in RegisteredClient: Scypio (4) [Scypio]connected: true (/93.23.13.122:53206)
-[2019-05-31 12:40:03] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Scypio,  Welcome to The QuickFire Initiative! ]
-[2019-05-31 12:40:06] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Scypio,  [QuickBot]: Welcome to The QuickFire Initiative. ]
-[2019-05-31 12:40:27] [ADMINCOMMAND] Ithirahad used: 'LOAD_AS_FACTION' with args [potatax, potatax_1559320825098, 10005]
-[2019-05-31 12:40:27] [BLUEPRINT][LOAD] <admin> loaded potatax as "potatax_1559320825098" in (23, -19, 21) as faction 10005
-[2019-05-31 12:40:48] [ADMINCOMMAND] Ithirahad used: 'DESTROY_ENTITY_DOCK' with args []
-[2019-05-31 12:40:48] [ADMIN COMMAND] destroying entity: Ship[potatax_1559320825098](912)
-[2019-05-31 12:40:49] [ADMINCOMMAND] Ithirahad used: 'DESTROY_ENTITY_DOCK' with args []
-[2019-05-31 12:40:49] [ADMIN COMMAND] destroying entity: Ship[potaty_1559320663971](775)
-[2019-05-31 12:40:50] [ADMINCOMMAND] Scypio used: 'LOAD_AS_FACTION' with args [Quickfire_test_target_3tmr, Quickfire_test_target_3tmr_1559320852455, 0]
-[2019-05-31 12:40:50] [BLUEPRINT][LOAD] <admin> loaded Quickfire_test_target_3tmr as "Quickfire_test_target_3tmr_1559320852455" in (23, -19, 21) as faction 0
-[2019-05-31 12:40:53] [ADMINCOMMAND] Ithirahad used: 'DESTROY_ENTITY_DOCK' with args []
-[2019-05-31 12:40:53] [ADMIN COMMAND] destroying entity: Ship[potatoctrl_1559320721860](776)
-[2019-05-31 12:40:59] [ADMINCOMMAND] Ithirahad used: 'DESTROY_ENTITY_DOCK' with args []
-[2019-05-31 12:40:59] [ADMIN COMMAND] destroying entity: Ship[potaty_1559310988526](616)
-[2019-05-31 12:41:00] [ADMINCOMMAND] Ithirahad used: 'DESTROY_ENTITY_DOCK' with args []
-[2019-05-31 12:41:00] [ADMIN COMMAND] destroying entity: Ship[potatoctrl_1559235469661](602)
-[2019-05-31 12:41:00] [ADMINCOMMAND] Ithirahad used: 'DESTROY_ENTITY_DOCK' with args []
-[2019-05-31 12:41:00] [ADMIN COMMAND] destroying entity: Ship[potateralphab_1559063507906](595)
-[2019-05-31 12:41:31] [ADMINCOMMAND] Ithirahad used: 'DESTROY_ENTITY_DOCK' with args []
-[2019-05-31 12:41:31] [ADMIN COMMAND] destroying entity: Ship[potatax_1559320546977](773)
-[2019-05-31 12:58:45] [ADMINCOMMAND] #CONSOLE# used: 'START_COUNTDOWN' with args [600, Shutting down server..]
-[2019-05-31 12:58:46] [ADMINCOMMAND] #CONSOLE# used: 'FORCE_SAVE' with args []
-[2019-05-31 12:59:34] [DISCONNECT] Client 'RegisteredClient: Scypio (4) [Scypio]connected: true' IP(/93.23.13.122:53206) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 6
-[2019-05-31 12:59:34] [LOGOUT] logging out client ID RegisteredClient: Scypio (4) [Scypio]connected: true
-[2019-05-31 13:00:23] [DISCONNECT] Client 'RegisteredClient: Ithirahad (3) [Ithirahad]connected: true' IP(/174.58.17.168:61539) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 2
-[2019-05-31 13:00:23] [LOGOUT] logging out client ID RegisteredClient: Ithirahad (3) [Ithirahad]connected: true
-[2019-05-31 13:08:46] [ADMINCOMMAND] #CONSOLE# used: 'SHUTDOWN' with args [1]
-[2019-05-31 13:08:47] [SHUTDOWN] Shutting down server
-[2019-05-31 13:08:47] [SHUTDOWN] shutting down element collection thread
-[2019-05-31 13:08:47] [SHUTDOWN] shutting down pathfinding threads
-[2019-05-31 13:08:47] [SHUTDOWN] shutting down universe
-[2019-05-31 13:08:47] [SHUTDOWN] shutting down segment request thread
-[2019-05-31 13:08:47] [SHUTDOWN] shutting down simulation
-[2019-05-31 13:08:47] [SHUTDOWN] shutting down active checker
-[2019-05-31 13:08:47] [SHUTDOWN] shutting sysin listener
-[2019-05-31 13:08:47] [SHUTDOWN] shutting down mob thread
-[2019-05-31 13:08:47] [SHUTDOWN] shutting down game map provider
-[2019-05-31 13:08:47] [SHUTDOWN] server stop listening
-[2019-05-31 13:08:47] [SHUTDOWN] disconnecting all clients
-[2019-05-31 13:08:47] [SHUTDOWN] writing current universe STARTED
-[2019-05-31 13:08:54] [SHUTDOWN] database closed successfully
-[2019-05-31 13:08:54] [SHUTDOWN] writing current universe FINISHED
+[2019-08-16 00:49:03] STARMADE SERVER VERSION: 0.201.378; Build(20190420_091741)
+[2019-08-16 00:49:03] STARMADE SERVER STARTED: Fri Aug 16 00:49:03 EDT 2019
+[2019-08-16 00:49:37] [SERVERSOCKET] Incoming connection: 53876, /73.27.218.112 -> 4242, /158.69.122.144
+[2019-08-16 00:49:37] [AUTH] authenticating Ithirahad; useAuth: true; requireAuth: true
+[2019-08-16 00:49:37] [AUTH] Protection status of Ithirahad is ProtectedUplinkName [username=Ithirahad, timeProtected=1565930335194] -> protected = true
+[2019-08-16 00:49:37] [AUTH] PROTECTING USER ithirahad under uplink id Ithirahad
+[2019-08-16 00:49:38] [LOGIN] logged in RegisteredClient: Ithirahad (1) [Ithirahad]connected: true (/73.27.218.112:53876)
+[2019-08-16 00:49:42] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [info, Ithirahad,  Welcome to The QuickFire Initiative! ]
+[2019-08-16 00:49:44] [ADMINCOMMAND] #CONSOLE# used: 'SERVER_MESSAGE_TO' with args [plain, Ithirahad,  [QuickBot]: Welcome to The QuickFire Initiative. ]
+[2019-08-16 00:52:05] [ADMINCOMMAND] #CONSOLE# used: 'START_COUNTDOWN' with args [0, Shutting down server..]
+[2019-08-16 00:52:06] [ADMINCOMMAND] #CONSOLE# used: 'SHUTDOWN' with args [1]
+[2019-08-16 00:52:07] [SHUTDOWN] Shutting down server
+[2019-08-16 00:52:07] [SHUTDOWN] shutting down element collection thread
+[2019-08-16 00:52:07] [SHUTDOWN] shutting down pathfinding threads
+[2019-08-16 00:52:07] [SHUTDOWN] shutting down universe
+[2019-08-16 00:52:07] [SHUTDOWN] shutting down segment request thread
+[2019-08-16 00:52:07] [SHUTDOWN] shutting down simulation
+[2019-08-16 00:52:07] [SHUTDOWN] shutting down active checker
+[2019-08-16 00:52:07] [SHUTDOWN] shutting sysin listener
+[2019-08-16 00:52:07] [SHUTDOWN] shutting down mob thread
+[2019-08-16 00:52:07] [SHUTDOWN] shutting down game map provider
+[2019-08-16 00:52:07] [SHUTDOWN] server stop listening
+[2019-08-16 00:52:07] [SHUTDOWN] disconnecting all clients
+[2019-08-16 00:52:07] [SHUTDOWN] writing current universe STARTED
+[2019-08-16 00:52:07] [DISCONNECT] Client 'RegisteredClient: Ithirahad (1) [Ithirahad]connected: true' IP(/73.27.218.112:53876) HAS BEEN DISCONNECTED . PROBE: false; ProcessorID: 0
+[2019-08-16 00:52:17] [SHUTDOWN] database closed successfully
+[2019-08-16 00:52:17] [SHUTDOWN] writing current universe FINISHED
